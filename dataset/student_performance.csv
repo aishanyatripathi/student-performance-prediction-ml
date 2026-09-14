@@ -1,0 +1,1201 @@
+Gender,Age,StudyHoursPerWeek,AttendancePercentage,PreviousGrade,SleepHours,Absences,ParentEducation,FamilyIncome,ExtracurricularActivities,InternetAccess,ExamScore,PassFail
+Female,19,5.9,72.8,79.9,5.8,3,High School,44710,Yes,Yes,47.4,Fail
+Male,18,8.2,52.7,64.0,5.8,8,Bachelor,59387,No,Yes,47.3,Fail
+Male,21,21.2,78.3,84.1,6.3,3,Associate,130418,No,Yes,62.3,Pass
+Male,19,10.1,70.3,64.5,7.5,4,Master,40623,Yes,Yes,49.6,Fail
+Female,17,7.7,93.5,63.6,7.4,3,Bachelor,41806,Yes,Yes,66.4,Pass
+Female,15,17.2,75.6,83.5,6.0,5,Master,132162,No,No,65.1,Pass
+Female,20,21.1,64.6,63.6,5.6,6,High School,23521,No,Yes,46.5,Fail
+Male,21,18.3,61.9,86.1,7.3,7,High School,30891,Yes,Yes,61.2,Pass
+Male,21,20.0,80.0,50.0,6.8,7,Doctorate,100331,Yes,Yes,56.7,Pass
+Male,22,9.5,76.1,77.5,9.6,3,Bachelor,40474,Yes,Yes,61.9,Pass
+Female,17,5.5,77.7,91.0,7.0,3,Master,28687,Yes,Yes,72.1,Pass
+Male,17,23.0,66.0,82.1,9.2,3,High School,116550,No,Yes,51.8,Pass
+Male,16,12.1,83.1,41.9,5.6,3,Associate,106762,No,Yes,41.4,Fail
+Female,21,12.5,93.0,59.1,5.1,7,Bachelor,106484,Yes,Yes,53.2,Pass
+Female,16,22.0,50.5,64.6,5.7,4,High School,118475,Yes,Yes,51.6,Pass
+Female,16,17.3,62.8,82.1,8.4,5,Bachelor,62291,Yes,Yes,54.4,Pass
+Female,20,16.7,74.1,49.4,9.1,2,Associate,66296,Yes,Yes,56.6,Pass
+Male,16,27.0,92.1,53.7,6.1,5,High School,58225,Yes,Yes,51.3,Pass
+Female,19,10.1,94.5,45.5,6.4,6,High School,52828,No,Yes,35.5,Fail
+Female,18,19.6,66.5,56.4,5.6,10,High School,51712,No,No,37.0,Fail
+Male,15,14.3,95.6,50.5,4.8,2,High School,44823,No,No,54.9,Pass
+Female,17,15.6,95.6,90.4,7.9,6,Bachelor,109374,No,Yes,78.2,Pass
+Female,19,23.2,86.8,58.9,7.3,7,High School,98174,No,Yes,54.1,Pass
+Female,15,17.0,78.2,77.7,7.0,3,High School,56052,Yes,Yes,57.9,Pass
+Female,21,17.2,77.3,68.3,5.3,5,Master,41265,No,Yes,57.0,Pass
+Male,21,20.4,76.1,68.1,9.0,2,Associate,108287,No,Yes,59.6,Pass
+Female,21,11.8,63.9,59.7,6.4,4,Associate,60012,No,Yes,52.1,Pass
+Male,19,9.0,67.5,78.8,7.6,3,Bachelor,28916,Yes,Yes,51.0,Pass
+Male,19,7.7,68.7,70.2,5.3,3,Master,143462,Yes,Yes,60.5,Pass
+Female,17,2.2,68.2,69.4,6.8,1,High School,93045,Yes,No,37.3,Fail
+Male,18,26.3,55.7,59.7,7.3,6,Associate,107860,Yes,Yes,50.5,Pass
+Female,22,7.4,94.9,62.0,7.4,3,Bachelor,60634,Yes,Yes,56.0,Pass
+Female,16,12.7,74.6,76.2,7.2,7,Associate,113479,No,Yes,53.4,Pass
+Male,21,12.3,61.9,71.2,7.6,6,Bachelor,92992,No,Yes,49.7,Fail
+Male,20,15.8,48.8,69.7,5.6,3,Doctorate,29369,No,No,51.6,Pass
+Male,18,18.9,88.4,57.4,7.2,3,Master,37329,Yes,Yes,61.5,Pass
+Female,20,19.2,68.7,95.2,7.1,2,High School,104700,No,Yes,54.7,Pass
+Female,17,10.5,78.5,61.3,7.3,4,High School,120960,No,Yes,49.0,Fail
+Male,17,13.0,62.3,67.6,7.1,5,Doctorate,30410,Yes,No,57.5,Pass
+Female,17,15.7,84.1,65.4,5.5,6,Associate,20684,Yes,Yes,60.8,Pass
+Female,15,12.5,80.4,95.4,5.4,5,High School,37887,Yes,Yes,70.1,Pass
+Male,20,23.6,44.6,63.9,4.3,1,Bachelor,64779,No,Yes,54.1,Pass
+Female,18,16.9,88.1,62.6,8.0,8,High School,86095,Yes,Yes,59.4,Pass
+Male,22,18.4,,69.7,8.0,8,High School,145510,Yes,Yes,56.2,Pass
+Female,18,18.0,76.2,58.3,8.0,3,Master,119261,No,No,45.7,Fail
+Male,19,21.0,70.4,69.6,7.4,6,High School,74068,Yes,Yes,59.4,Pass
+Female,19,15.1,89.3,100.0,4.4,4,High School,36113,Yes,Yes,69.8,Pass
+Male,21,6.2,81.4,72.2,5.8,3,High School,60861,No,Yes,48.3,Fail
+Male,22,16.4,77.2,71.7,7.2,7,Bachelor,96487,No,Yes,54.0,Pass
+Female,19,10.1,71.6,57.9,7.2,3,High School,43617,Yes,No,46.4,Fail
+Male,17,10.8,79.2,91.9,6.7,4,Associate,116330,No,Yes,57.2,Pass
+Male,18,17.5,93.6,95.1,7.4,7,Bachelor,44250,Yes,Yes,71.9,Pass
+Male,20,21.4,83.4,79.9,7.0,4,Master,21055,No,Yes,60.9,Pass
+Male,17,14.1,60.1,77.2,7.1,6,High School,90337,Yes,Yes,47.1,Fail
+Male,15,15.9,76.6,64.7,6.2,5,Master,145615,Yes,Yes,51.0,Pass
+Male,19,24.2,79.1,73.5,8.2,11,High School,120255,Yes,Yes,67.2,Pass
+Female,17,15.4,77.6,56.3,6.5,3,Bachelor,78532,No,Yes,51.7,Pass
+Female,17,29.6,73.7,52.2,5.4,4,Associate,107376,No,Yes,59.6,Pass
+Female,15,17.4,75.7,47.2,6.1,2,High School,27933,No,Yes,40.0,Fail
+Female,16,3.4,49.2,73.7,6.6,3,Bachelor,49979,No,Yes,44.0,Fail
+Female,18,18.5,80.1,48.7,8.2,0,High School,63047,No,Yes,52.9,Pass
+Female,20,16.3,66.5,61.0,6.9,5,High School,22137,Yes,No,53.1,Pass
+Male,21,21.7,56.8,67.1,6.8,5,Associate,29423,No,Yes,47.7,Fail
+Female,16,18.0,88.4,81.9,5.5,2,Bachelor,107851,Yes,No,62.3,Pass
+Female,19,13.2,89.6,59.9,7.9,3,High School,52482,No,Yes,46.6,Fail
+Male,17,6.7,73.0,83.6,6.2,6,High School,70483,Yes,Yes,51.0,Pass
+Female,22,12.7,95.2,81.1,6.9,3,High School,52754,Yes,Yes,56.3,Pass
+Male,15,,92.2,53.0,8.8,4,Associate,41363,No,Yes,40.8,Fail
+Female,15,10.5,83.1,83.7,7.6,5,Associate,35085,Yes,Yes,60.6,Pass
+Other,22,17.5,68.1,64.0,5.0,2,High School,74889,Yes,Yes,55.6,Pass
+Male,18,24.0,78.2,61.0,4.9,4,High School,120090,Yes,Yes,49.5,Fail
+Female,16,16.4,69.4,64.1,6.9,4,Associate,97951,Yes,Yes,49.9,Fail
+Female,21,6.8,85.7,68.0,5.5,6,Bachelor,146227,No,Yes,49.0,Fail
+Male,18,16.7,68.1,62.2,7.8,3,Bachelor,147925,No,Yes,61.3,Pass
+Male,22,21.2,71.8,56.2,7.1,3,Master,74414,No,Yes,41.4,Fail
+Male,17,10.3,82.7,57.5,7.2,5,High School,135159,Yes,Yes,50.0,Pass
+Male,22,13.2,93.9,69.9,6.2,4,Doctorate,104934,Yes,Yes,67.7,Pass
+Female,18,14.1,61.9,65.8,9.1,5,Associate,50691,Yes,Yes,47.8,Fail
+Female,20,9.3,56.4,75.4,10.0,6,Doctorate,72697,No,Yes,51.8,Pass
+Female,15,17.9,74.5,68.7,6.7,5,High School,21883,Yes,Yes,55.5,Pass
+Male,15,13.3,81.9,69.1,7.4,1,Associate,49712,Yes,Yes,58.5,Pass
+Male,19,16.5,84.8,76.3,7.1,5,Associate,131655,No,Yes,65.6,Pass
+Female,19,8.7,71.3,87.9,6.7,4,Associate,39545,No,Yes,55.2,Pass
+Female,22,11.4,90.5,88.4,6.0,0,Master,36204,No,Yes,71.5,Pass
+Female,21,18.3,71.2,86.8,5.7,5,Bachelor,41268,Yes,Yes,65.5,Pass
+Female,17,11.8,61.5,80.2,5.6,3,Doctorate,102383,Yes,Yes,64.3,Pass
+Male,20,24.4,63.6,97.2,7.5,4,Bachelor,137755,No,Yes,63.5,Pass
+Male,16,11.6,79.6,74.1,6.4,4,Associate,114940,No,Yes,54.0,Pass
+Male,18,15.3,76.5,72.6,4.0,6,High School,46436,Yes,No,48.8,Fail
+Female,21,19.6,88.9,99.4,7.5,5,Doctorate,116524,Yes,Yes,73.4,Pass
+Female,17,5.5,58.9,35.0,7.0,2,Bachelor,104842,Yes,Yes,43.2,Fail
+Male,19,3.4,67.7,65.0,8.6,2,Bachelor,60973,Yes,Yes,40.5,Fail
+Male,22,4.8,79.0,85.5,7.4,4,Associate,94369,No,Yes,60.4,Pass
+Male,18,21.6,89.4,81.7,5.2,6,Associate,105533,Yes,Yes,53.0,Pass
+Male,19,10.7,85.5,100.0,4.3,5,Master,51521,No,No,61.2,Pass
+Male,22,29.3,92.8,69.5,6.1,5,High School,57974,Yes,Yes,68.7,Pass
+Male,18,10.6,64.7,62.0,6.2,6,High School,141900,No,Yes,35.5,Fail
+Female,16,15.1,92.5,63.4,8.1,4,High School,60448,Yes,Yes,57.9,Pass
+Female,17,23.3,77.3,72.5,7.0,3,Bachelor,25938,No,Yes,63.1,Pass
+Female,18,26.0,79.6,90.7,8.4,3,High School,122262,Yes,No,68.2,Pass
+Female,20,26.4,66.5,90.9,5.4,5,High School,67934,No,Yes,59.3,Pass
+Male,21,21.3,96.1,67.2,8.2,4,High School,83526,No,Yes,56.0,Pass
+Female,15,20.1,67.4,71.5,7.9,4,Associate,115204,Yes,No,47.1,Fail
+Male,20,17.6,73.8,59.4,4.6,3,Associate,39487,No,Yes,49.3,Fail
+Male,20,18.7,72.0,60.9,8.6,3,High School,30869,Yes,Yes,58.2,Pass
+Female,21,10.7,83.1,82.6,7.1,1,Doctorate,132576,Yes,Yes,65.7,Pass
+Female,15,9.1,60.6,90.4,7.5,2,Doctorate,100209,Yes,Yes,62.5,Pass
+Male,20,14.0,92.1,58.2,6.0,7,High School,100299,Yes,Yes,57.8,Pass
+Female,18,13.0,76.3,71.4,8.5,2,Bachelor,62933,Yes,Yes,59.0,Pass
+Female,18,11.3,96.6,64.6,5.6,4,Bachelor,94579,Yes,Yes,59.5,Pass
+Female,18,18.2,79.8,80.1,8.0,3,High School,108177,Yes,Yes,64.1,Pass
+Female,15,19.7,84.4,62.6,8.0,3,High School,85719,No,Yes,53.2,Pass
+Male,20,14.5,68.8,41.0,5.8,7,Associate,112606,No,Yes,41.5,Fail
+Male,22,22.9,91.3,82.1,9.4,3,Associate,47018,Yes,No,71.8,Pass
+Male,15,7.1,96.3,63.8,7.3,2,High School,103839,No,Yes,55.0,Pass
+Male,18,12.8,40.0,65.2,7.8,1,Master,51545,Yes,Yes,57.4,Pass
+Male,21,9.7,82.0,74.1,5.2,4,Associate,20566,No,Yes,41.5,Fail
+Female,20,2.8,75.6,72.9,9.5,2,Bachelor,94489,No,No,43.2,Fail
+Male,20,13.5,68.6,74.4,5.5,4,High School,83355,Yes,No,46.8,Fail
+Male,19,13.3,74.7,45.2,8.2,7,Associate,90940,Yes,Yes,40.3,Fail
+Male,19,23.1,76.0,75.8,5.8,4,Associate,144731,Yes,Yes,58.3,Pass
+Male,16,17.8,72.7,41.3,6.3,5,Associate,116382,Yes,Yes,50.1,Pass
+Female,22,7.9,88.9,78.8,7.9,8,Bachelor,141865,No,Yes,54.7,Pass
+Female,22,25.1,80.4,83.7,8.2,4,Bachelor,40129,No,Yes,66.2,Pass
+Female,17,21.3,93.9,48.8,5.5,3,Associate,48845,No,Yes,51.7,Pass
+Female,22,17.5,76.9,72.6,8.3,7,Bachelor,97449,Yes,No,53.7,Pass
+Male,19,12.6,85.7,82.8,8.3,4,Master,28739,No,Yes,61.6,Pass
+Male,15,8.2,62.1,61.7,5.9,5,Bachelor,49171,No,Yes,51.0,Pass
+Female,22,11.8,72.7,77.4,8.9,8,High School,107179,Yes,Yes,43.1,Fail
+Male,19,20.5,60.1,35.0,5.3,4,Bachelor,118022,Yes,No,48.0,Fail
+Female,16,25.3,78.1,83.4,6.3,3,High School,126906,No,Yes,73.7,Pass
+Female,20,23.3,84.7,68.4,7.6,1,Master,70930,No,Yes,71.9,Pass
+Female,22,11.1,74.7,64.4,6.0,1,Associate,67649,Yes,Yes,48.6,Fail
+Female,16,7.3,60.0,81.8,7.3,8,Associate,81503,Yes,Yes,47.1,Fail
+Male,20,14.8,73.9,92.2,7.3,5,High School,134659,No,No,59.7,Pass
+Female,21,3.4,79.3,74.8,6.8,3,Associate,114875,No,Yes,48.5,Fail
+Male,21,15.9,62.3,90.5,8.0,5,Master,69538,Yes,No,59.0,Pass
+Male,20,13.1,77.4,46.3,6.7,4,High School,55455,Yes,Yes,44.3,Fail
+Female,22,11.2,60.5,77.3,7.3,3,Associate,38243,Yes,Yes,48.6,Fail
+Male,17,4.4,75.5,66.2,8.4,1,Master,141793,Yes,Yes,55.2,Pass
+Male,19,17.1,79.3,57.0,7.9,5,Associate,129371,Yes,Yes,46.9,Fail
+Female,15,10.8,66.8,41.0,7.9,3,Associate,87231,No,Yes,43.5,Fail
+Male,15,7.0,86.6,76.6,5.6,4,Bachelor,92648,No,Yes,50.2,Pass
+Female,18,1.0,41.5,80.3,7.6,9,Associate,50059,Yes,Yes,41.2,Fail
+Female,20,13.8,79.9,86.8,5.9,7,High School,90778,Yes,Yes,54.9,Pass
+Female,15,24.6,74.6,84.5,5.5,5,High School,93477,Yes,Yes,64.4,Pass
+Male,22,24.0,85.6,57.2,6.9,4,Bachelor,73283,No,Yes,61.6,Pass
+Male,17,11.3,86.5,86.1,5.9,1,Master,81853,Yes,Yes,69.1,Pass
+Female,20,10.4,84.7,87.5,7.9,7,High School,38001,No,Yes,51.0,Pass
+Female,17,16.8,89.4,64.4,8.0,2,High School,20700,Yes,Yes,55.1,Pass
+Male,22,8.0,57.0,68.4,4.7,7,Associate,135990,No,No,49.9,Fail
+Female,15,15.8,68.6,54.9,6.0,4,Master,31339,Yes,Yes,57.9,Pass
+Female,15,18.6,69.2,88.7,5.2,6,High School,144378,Yes,Yes,57.6,Pass
+Female,18,21.4,93.8,46.8,6.4,5,Master,47543,No,Yes,52.2,Pass
+Other,15,13.4,84.4,75.5,7.5,6,High School,53930,No,Yes,45.3,Fail
+Female,20,12.8,56.9,59.6,6.7,6,Master,47044,Yes,Yes,55.0,Pass
+Male,22,8.7,83.5,52.5,6.3,2,Bachelor,96673,Yes,Yes,47.7,Fail
+Male,21,9.0,79.7,41.8,8.6,5,Bachelor,130997,No,No,44.9,Fail
+Female,22,12.6,76.7,65.0,4.2,5,Associate,101725,No,Yes,52.0,Pass
+Male,20,16.2,56.5,50.3,8.5,7,Bachelor,44012,No,Yes,49.8,Fail
+Female,20,19.5,63.5,68.8,6.3,3,High School,96513,Yes,Yes,57.7,Pass
+Male,18,9.2,93.6,92.8,6.9,2,High School,115585,No,Yes,60.0,Pass
+Male,18,23.0,97.5,70.8,6.4,5,Associate,39694,No,Yes,61.2,Pass
+Male,15,12.4,75.9,96.0,8.9,7,Master,116760,Yes,Yes,66.3,Pass
+Female,16,13.9,82.8,54.2,5.5,4,Bachelor,50835,Yes,Yes,51.2,Pass
+Male,22,9.5,80.0,50.1,7.0,5,Associate,136777,No,Yes,34.9,Fail
+Female,22,1.0,72.6,53.6,7.6,4,Bachelor,36186,Yes,Yes,33.4,Fail
+Female,16,19.3,75.0,67.1,5.1,6,High School,62391,Yes,No,53.4,Pass
+Female,18,18.4,60.2,100.0,5.9,2,Master,123858,Yes,Yes,69.2,Pass
+Male,15,12.3,91.5,44.7,6.8,5,Bachelor,122199,No,Yes,51.8,Pass
+Male,16,14.4,55.0,76.7,5.9,3,Bachelor,46401,Yes,No,51.0,Pass
+Female,15,17.1,96.9,58.2,6.0,6,Associate,115764,No,Yes,52.3,Pass
+Male,15,4.6,43.5,64.9,6.6,4,Doctorate,76611,No,No,46.1,Fail
+Female,15,10.8,94.9,50.4,7.8,4,Master,30202,No,Yes,60.0,Pass
+Male,19,18.8,69.1,80.3,6.6,7,Bachelor,51135,Yes,Yes,58.1,Pass
+Female,20,6.5,48.3,67.4,8.3,1,Associate,106121,Yes,No,39.7,Fail
+Male,15,15.8,89.9,83.2,5.8,2,Bachelor,131944,Yes,Yes,73.1,Pass
+Female,19,5.9,80.0,70.5,5.5,5,Bachelor,131765,No,Yes,48.0,Fail
+Male,18,16.8,80.4,41.0,9.3,2,Associate,81535,Yes,Yes,48.1,Fail
+Female,16,13.8,83.7,83.4,6.2,5,Associate,135328,Yes,Yes,58.5,Pass
+Female,20,4.3,77.9,39.8,5.4,4,Associate,133473,No,Yes,32.6,Fail
+Female,21,21.0,60.2,41.8,4.9,0,Bachelor,131056,Yes,No,51.1,Pass
+Male,16,9.6,,55.2,8.3,3,Associate,33475,No,Yes,39.1,Fail
+Male,20,9.1,76.8,55.3,6.6,3,High School,97870,Yes,Yes,46.9,Fail
+Female,21,15.2,52.7,87.5,6.7,1,Bachelor,102366,No,No,56.9,Pass
+Male,16,20.9,84.6,65.6,6.8,3,Associate,141836,Yes,Yes,57.2,Pass
+Male,20,7.9,73.3,85.5,8.2,5,High School,110814,Yes,Yes,62.7,Pass
+Male,16,14.4,43.2,60.0,6.8,6,Associate,102285,Yes,Yes,48.1,Fail
+Male,16,16.6,79.7,72.4,9.8,2,Master,58185,No,Yes,60.2,Pass
+Female,21,18.2,73.8,74.6,7.2,3,Bachelor,82398,No,Yes,58.3,Pass
+Female,16,15.1,60.7,77.7,8.3,4,Associate,114682,No,Yes,57.7,Pass
+Male,16,11.8,67.8,61.5,8.0,4,Master,94593,Yes,Yes,54.5,Pass
+Male,21,9.0,56.2,62.7,7.0,4,High School,125518,Yes,Yes,51.0,Pass
+Male,18,14.5,65.6,63.8,6.3,5,Doctorate,73535,No,Yes,56.1,Pass
+Female,15,7.6,52.3,44.9,7.4,0,High School,127626,No,Yes,37.8,Fail
+Female,22,1.0,73.2,66.8,7.6,3,High School,132190,Yes,Yes,46.9,Fail
+Male,17,16.6,69.7,62.6,6.3,5,Associate,32060,Yes,Yes,67.6,Pass
+Male,19,19.4,56.5,76.1,7.2,6,Associate,81560,No,Yes,46.9,Fail
+Male,17,1.0,92.8,69.3,8.5,8,Associate,107610,No,Yes,40.7,Fail
+Male,17,7.9,66.0,86.7,9.5,3,Bachelor,50970,No,Yes,55.7,Pass
+Male,20,17.7,94.8,69.0,8.0,4,Master,62088,Yes,Yes,72.6,Pass
+Female,15,26.3,69.5,60.1,9.2,3,Associate,29683,Yes,Yes,47.0,Fail
+Female,20,14.1,90.2,68.8,6.2,4,Associate,118631,Yes,Yes,48.2,Fail
+Male,15,9.6,88.7,78.1,7.8,4,High School,129789,Yes,Yes,54.9,Pass
+Male,21,12.9,91.5,43.2,8.6,5,High School,63321,Yes,Yes,57.3,Pass
+Female,21,22.2,85.2,58.0,5.9,3,Bachelor,81565,No,Yes,57.1,Pass
+Female,22,10.1,72.8,58.3,6.4,2,High School,138454,No,Yes,39.0,Fail
+Male,15,9.2,,73.8,9.1,5,Bachelor,100095,Yes,Yes,63.1,Pass
+Female,16,11.1,92.5,75.4,5.8,6,Associate,131610,No,Yes,62.3,Pass
+Female,18,8.3,77.7,69.4,5.4,1,High School,21532,No,Yes,45.9,Fail
+Male,22,14.7,76.1,35.0,8.8,6,Associate,132527,Yes,No,42.2,Fail
+Male,22,23.7,61.8,44.9,8.4,6,High School,101463,No,Yes,43.9,Fail
+Male,16,15.9,90.4,64.7,7.5,5,Associate,23456,Yes,Yes,60.0,Pass
+Female,18,12.5,41.5,61.0,6.9,3,Bachelor,21413,Yes,Yes,44.7,Fail
+Male,20,12.2,74.3,68.1,6.5,3,Associate,25085,Yes,Yes,57.1,Pass
+Female,18,4.6,63.6,61.4,7.3,4,High School,38563,No,Yes,44.0,Fail
+Female,20,19.3,81.7,89.4,8.9,3,Bachelor,55575,No,Yes,70.7,Pass
+Male,21,13.5,72.9,35.9,7.3,3,High School,25386,No,Yes,30.4,Fail
+Male,17,12.9,62.9,72.2,9.6,1,Bachelor,118244,No,No,45.4,Fail
+Male,21,33.2,74.6,79.6,5.9,6,Associate,77150,Yes,Yes,63.5,Pass
+Male,21,15.8,73.6,77.8,7.0,5,Associate,144053,No,No,53.2,Pass
+Male,17,9.5,86.7,79.0,6.6,6,Master,94566,No,Yes,60.4,Pass
+Female,18,11.4,84.4,81.0,5.7,4,Bachelor,147549,Yes,Yes,55.7,Pass
+Female,22,20.9,92.7,59.5,6.8,6,High School,46812,Yes,Yes,57.0,Pass
+Female,18,14.7,70.3,52.6,7.5,5,High School,106958,Yes,Yes,50.7,Pass
+Female,20,5.4,79.5,39.5,7.6,3,Master,94181,No,Yes,46.2,Fail
+Male,16,19.5,82.3,62.9,9.6,4,High School,32628,Yes,No,51.3,Pass
+Female,20,10.0,61.8,57.1,7.6,2,Associate,42486,Yes,Yes,45.8,Fail
+Male,16,25.2,94.9,84.3,8.4,1,Bachelor,141934,No,Yes,66.2,Pass
+Male,21,20.5,80.1,64.0,7.1,5,Bachelor,57266,No,Yes,64.7,Pass
+Male,17,11.3,88.4,53.6,9.0,3,Bachelor,106268,No,Yes,54.0,Pass
+Male,21,21.7,81.0,51.4,9.9,7,Bachelor,64557,Yes,Yes,47.2,Fail
+Male,15,14.4,40.0,95.8,7.6,8,Bachelor,34494,No,No,56.4,Pass
+Male,18,19.1,92.2,67.7,5.8,7,Master,52486,Yes,Yes,65.2,Pass
+Female,16,16.9,68.7,57.1,6.3,6,Bachelor,79635,Yes,Yes,57.0,Pass
+Male,20,8.9,93.8,69.7,7.3,0,Associate,149197,Yes,Yes,56.8,Pass
+Female,17,10.1,79.9,94.6,7.5,3,Associate,66814,No,Yes,58.7,Pass
+Female,16,20.2,91.4,62.5,7.8,2,Bachelor,141141,No,Yes,56.4,Pass
+Male,20,12.0,,77.6,7.6,6,Master,80363,No,No,69.0,Pass
+Female,18,11.6,70.8,84.6,7.0,6,High School,61162,No,Yes,49.1,Fail
+Male,21,8.3,78.5,41.5,6.2,7,Associate,145083,Yes,Yes,35.3,Fail
+Male,18,16.5,81.0,59.1,7.5,2,Master,25590,No,Yes,53.7,Pass
+Male,19,26.4,80.6,82.9,9.2,7,Bachelor,52850,No,Yes,63.8,Pass
+Female,15,7.6,59.0,58.2,8.2,1,High School,148091,No,Yes,50.0,Pass
+Female,19,14.1,83.3,73.8,7.6,3,Bachelor,43230,No,Yes,59.9,Pass
+Male,17,22.5,79.6,57.4,8.2,3,Doctorate,33058,Yes,Yes,70.0,Pass
+Female,16,13.5,82.6,61.8,6.6,2,Master,97837,Yes,Yes,60.5,Pass
+Male,17,16.7,93.1,60.1,6.4,2,Bachelor,121397,Yes,Yes,59.5,Pass
+Male,21,7.6,76.9,76.9,6.1,1,High School,45039,No,Yes,46.3,Fail
+Male,20,16.6,67.9,70.8,6.8,3,Master,56334,Yes,Yes,68.1,Pass
+Female,18,12.9,99.1,69.4,6.5,7,Associate,61525,Yes,No,58.8,Pass
+Female,19,19.9,48.3,100.0,8.4,7,Master,144681,No,No,65.1,Pass
+Male,22,21.1,90.3,92.4,6.4,2,Associate,102194,No,Yes,73.1,Pass
+Female,19,29.5,82.2,40.3,6.0,0,High School,21972,Yes,Yes,52.0,Pass
+Female,21,17.5,92.4,61.8,9.3,3,Associate,82936,Yes,Yes,61.2,Pass
+Male,19,16.0,91.3,100.0,6.5,6,High School,109703,Yes,Yes,71.9,Pass
+Male,21,15.2,63.6,60.0,7.2,9,Bachelor,127877,No,Yes,49.8,Fail
+Male,22,11.9,83.8,97.2,7.5,2,Doctorate,47519,No,Yes,71.1,Pass
+Male,17,16.0,72.1,62.0,5.6,2,Bachelor,120417,Yes,Yes,65.7,Pass
+Female,18,12.2,50.5,64.7,8.5,4,Master,93864,Yes,No,51.7,Pass
+Male,16,15.0,64.5,80.1,7.8,4,Associate,73881,Yes,Yes,64.1,Pass
+Other,20,21.9,82.2,66.7,8.9,2,Bachelor,42732,Yes,Yes,65.5,Pass
+Female,16,,89.4,74.9,6.2,6,Master,93909,No,Yes,53.8,Pass
+Male,17,20.8,84.5,90.0,7.1,4,Bachelor,23720,Yes,Yes,74.9,Pass
+Male,20,21.9,67.7,78.6,7.0,2,Associate,77115,Yes,No,63.3,Pass
+Male,19,13.3,59.7,70.0,7.3,6,Bachelor,133843,Yes,No,50.9,Pass
+Male,22,1.3,65.4,91.4,5.3,3,Bachelor,69940,No,Yes,48.5,Fail
+Male,22,10.4,88.3,80.3,7.1,3,High School,89762,No,No,57.6,Pass
+Female,15,21.8,96.0,57.7,5.3,3,Master,102833,Yes,Yes,59.6,Pass
+Female,17,13.9,93.3,95.7,7.4,5,Doctorate,36206,Yes,Yes,77.3,Pass
+Male,17,8.0,89.6,77.0,4.4,2,Associate,109471,Yes,Yes,52.3,Pass
+Male,18,11.0,79.2,65.0,4.8,6,Bachelor,113169,Yes,Yes,47.8,Fail
+Male,16,19.0,97.4,39.7,8.0,3,Bachelor,28736,Yes,Yes,56.9,Pass
+Male,17,17.3,57.2,48.7,6.3,3,Bachelor,124937,Yes,Yes,51.2,Pass
+Male,17,12.6,84.5,91.8,5.8,1,Associate,74577,No,Yes,64.0,Pass
+Male,19,11.8,89.0,92.4,8.5,4,Master,149003,No,Yes,63.9,Pass
+Male,19,11.6,58.1,69.2,7.4,7,Associate,105702,No,Yes,50.5,Pass
+Male,20,8.5,78.8,43.2,8.0,4,High School,96694,Yes,Yes,42.8,Fail
+Male,21,23.7,75.4,52.8,6.8,1,Master,109310,No,Yes,58.9,Pass
+Male,21,12.1,77.0,45.3,10.0,1,Bachelor,73155,Yes,Yes,51.1,Pass
+Male,15,21.3,63.2,44.8,6.3,2,Master,146491,Yes,No,46.6,Fail
+Female,21,23.1,94.7,96.4,9.1,4,High School,95613,Yes,Yes,78.3,Pass
+Female,18,20.0,77.8,96.8,6.9,8,High School,74938,Yes,No,57.1,Pass
+Female,15,11.4,68.3,52.3,5.0,3,Master,119163,No,No,52.5,Pass
+Male,20,16.4,72.7,67.9,7.6,4,High School,86498,Yes,Yes,49.5,Fail
+Female,19,13.9,79.1,50.0,7.4,3,Master,35751,No,Yes,52.7,Pass
+Female,21,8.6,88.8,67.8,5.7,4,Master,129161,No,Yes,55.1,Pass
+Male,16,15.9,88.4,91.0,5.9,2,Bachelor,50390,No,Yes,65.9,Pass
+Female,19,6.9,90.7,83.1,7.0,4,High School,119213,No,Yes,57.6,Pass
+Male,22,21.1,97.6,79.3,7.4,3,Bachelor,126712,No,Yes,71.1,Pass
+Female,18,11.2,86.6,65.3,4.0,7,Master,78403,Yes,Yes,57.3,Pass
+Female,19,15.2,95.2,85.7,8.3,3,Associate,44859,No,Yes,58.8,Pass
+Male,18,15.7,74.6,77.1,6.4,5,Associate,117124,Yes,Yes,51.6,Pass
+Female,18,12.4,76.0,73.7,5.4,3,Associate,143940,No,Yes,46.7,Fail
+Female,18,17.5,78.7,66.4,8.1,0,High School,45100,No,No,51.2,Pass
+Male,20,11.2,86.8,72.5,7.0,6,Master,135350,Yes,Yes,70.0,Pass
+Male,18,19.2,65.2,72.0,8.5,7,Master,139792,Yes,Yes,58.9,Pass
+Female,18,5.9,88.3,60.4,7.5,5,Doctorate,72524,Yes,No,63.2,Pass
+Male,22,14.8,73.1,57.2,7.0,4,Bachelor,120757,Yes,Yes,52.6,Pass
+Female,16,25.6,75.0,54.0,6.8,1,Bachelor,103049,Yes,Yes,61.1,Pass
+Female,15,8.0,71.3,54.9,7.6,8,High School,62974,Yes,Yes,44.0,Fail
+Male,17,9.9,69.4,65.4,6.5,4,Bachelor,71768,Yes,Yes,50.5,Pass
+Male,22,17.1,75.1,63.1,6.0,0,Bachelor,66544,Yes,No,57.4,Pass
+Male,15,15.1,82.0,59.3,7.7,3,Master,29774,No,Yes,47.2,Fail
+Male,18,16.1,41.8,58.3,6.8,3,Master,95678,Yes,No,42.6,Fail
+Male,16,16.9,80.2,72.1,7.0,3,Master,68135,No,Yes,52.1,Pass
+Male,19,17.8,92.6,87.3,8.3,3,Master,43158,No,Yes,73.2,Pass
+Female,16,20.7,69.9,67.8,6.9,3,Master,89587,Yes,Yes,55.0,Pass
+Male,22,16.5,91.9,66.9,7.0,5,High School,77317,No,Yes,60.3,Pass
+Female,18,12.6,85.5,54.9,6.3,9,Master,24371,No,Yes,49.8,Fail
+Female,16,18.0,92.6,64.9,7.5,4,Bachelor,112226,No,Yes,63.4,Pass
+Female,21,25.4,67.2,84.7,7.4,1,Associate,57355,Yes,No,61.4,Pass
+Female,16,13.2,79.9,82.5,8.1,1,High School,115956,No,Yes,52.5,Pass
+Male,18,8.2,56.5,81.6,6.3,3,Bachelor,131538,No,Yes,49.9,Fail
+Male,20,20.6,71.2,81.1,6.5,2,Associate,120126,Yes,Yes,68.6,Pass
+Male,21,13.3,90.1,74.1,8.0,3,Associate,26338,Yes,Yes,71.3,Pass
+Female,16,1.0,53.9,73.6,7.3,1,Bachelor,20477,No,Yes,49.0,Fail
+Female,17,19.1,81.9,71.4,5.9,5,Master,60423,No,Yes,53.1,Pass
+Female,17,10.8,61.7,62.2,8.6,4,Master,93973,No,Yes,44.9,Fail
+Female,16,13.5,52.8,69.2,5.0,10,Associate,47236,No,Yes,33.8,Fail
+Male,20,16.0,89.0,71.0,7.9,4,Associate,149440,No,Yes,56.4,Pass
+Male,19,15.1,84.8,76.9,5.5,3,High School,43839,No,Yes,54.0,Pass
+Male,18,18.3,56.5,69.4,9.3,5,Associate,135537,Yes,Yes,53.2,Pass
+Female,17,11.4,62.7,97.5,5.1,2,High School,129902,Yes,No,51.1,Pass
+Male,19,17.1,83.1,51.1,8.4,3,Doctorate,119051,Yes,Yes,53.7,Pass
+Male,16,12.4,88.3,78.6,6.9,4,Bachelor,25139,No,Yes,59.6,Pass
+Male,22,18.4,64.2,67.4,6.6,2,High School,126314,No,No,50.3,Pass
+Male,19,17.7,87.5,68.0,7.2,1,Associate,82262,Yes,Yes,55.8,Pass
+Female,21,8.4,83.9,56.6,7.8,5,Associate,29975,No,Yes,48.3,Fail
+Female,15,20.5,76.2,82.3,5.9,6,Associate,149616,Yes,Yes,66.0,Pass
+Female,17,10.8,91.6,77.1,6.0,7,High School,102984,Yes,No,39.9,Fail
+Male,16,18.8,65.6,79.7,7.8,2,Doctorate,106366,Yes,Yes,75.2,Pass
+Female,22,16.2,74.3,70.4,5.0,5,High School,138491,No,Yes,53.2,Pass
+Female,18,25.0,72.3,63.5,6.3,5,High School,68382,No,Yes,57.1,Pass
+Female,22,12.7,79.1,67.1,10.0,7,High School,41926,Yes,Yes,46.4,Fail
+Female,20,11.9,73.6,74.1,5.8,5,Bachelor,114538,Yes,Yes,59.8,Pass
+Male,21,13.9,58.0,39.9,8.4,4,High School,131117,No,Yes,41.3,Fail
+Male,16,12.2,81.2,80.2,6.3,7,High School,31333,Yes,Yes,51.1,Pass
+Female,18,18.8,95.8,100.0,7.6,9,Associate,34942,No,Yes,70.0,Pass
+Female,20,4.3,82.5,74.7,7.8,3,Bachelor,92397,No,Yes,52.6,Pass
+Male,20,7.7,85.1,64.1,8.4,5,High School,39530,Yes,Yes,46.7,Fail
+Female,16,7.6,79.8,65.7,6.8,3,Associate,65060,Yes,Yes,51.0,Pass
+Female,21,19.7,93.8,77.9,9.4,1,Associate,99292,Yes,Yes,69.5,Pass
+Female,19,24.3,94.6,64.4,6.3,5,High School,59104,No,Yes,55.4,Pass
+Female,19,13.4,79.6,80.2,7.3,3,Associate,20634,No,Yes,53.4,Pass
+Male,20,13.0,77.7,65.6,7.3,4,High School,25288,Yes,Yes,53.8,Pass
+Male,19,14.4,82.6,92.0,5.7,6,High School,52253,No,Yes,60.3,Pass
+Female,15,21.0,60.8,91.6,6.7,3,Associate,144628,No,No,59.1,Pass
+Female,20,8.4,66.2,63.4,7.2,4,High School,45005,Yes,Yes,38.0,Fail
+Male,20,15.4,91.4,66.9,6.5,8,High School,67824,No,Yes,47.0,Fail
+Male,18,19.9,82.5,67.7,9.9,6,Associate,95702,Yes,Yes,54.9,Pass
+Male,19,17.0,70.7,67.9,6.0,2,Master,35798,No,Yes,66.0,Pass
+Male,21,15.1,79.5,54.7,8.4,3,Bachelor,73267,Yes,Yes,55.5,Pass
+Female,20,20.0,62.6,52.8,8.0,6,Master,21846,Yes,Yes,51.4,Pass
+Female,22,,77.3,85.5,7.0,1,Master,81571,No,Yes,54.6,Pass
+Male,21,18.1,63.2,83.3,6.0,2,Doctorate,32481,No,Yes,63.2,Pass
+Female,15,10.1,79.9,83.0,6.1,4,Bachelor,142908,No,Yes,61.0,Pass
+Male,18,3.0,78.0,67.0,6.4,0,Bachelor,60154,No,Yes,41.5,Fail
+Male,16,17.1,90.2,94.5,4.9,2,Associate,147447,Yes,Yes,70.4,Pass
+Male,21,22.2,90.4,67.7,5.8,4,High School,26048,Yes,Yes,57.1,Pass
+Female,20,13.2,92.4,80.1,5.2,7,Bachelor,45386,Yes,No,59.9,Pass
+Male,15,19.7,72.2,48.6,8.6,3,Doctorate,122794,Yes,Yes,61.9,Pass
+Female,17,23.7,86.5,64.8,7.7,3,Associate,52713,No,Yes,55.9,Pass
+Male,15,21.9,82.6,65.8,7.9,3,Bachelor,95481,No,Yes,53.1,Pass
+Male,15,23.8,80.2,67.1,7.7,6,Associate,57899,Yes,Yes,57.9,Pass
+Female,18,18.5,65.4,49.4,7.2,5,Associate,108217,Yes,Yes,54.2,Pass
+Male,16,14.5,75.5,77.9,8.8,4,Associate,32975,Yes,Yes,63.5,Pass
+Male,17,4.4,87.2,82.4,6.3,2,Associate,91247,No,Yes,53.2,Pass
+Female,19,12.5,98.2,57.6,7.1,5,Associate,128295,Yes,Yes,51.0,Pass
+Female,19,8.9,78.1,51.9,7.9,6,Bachelor,137045,No,Yes,41.8,Fail
+Female,21,27.0,90.9,57.2,5.4,2,Master,30105,Yes,Yes,59.6,Pass
+Female,15,12.9,84.1,74.9,10.0,4,Master,67645,Yes,Yes,67.7,Pass
+Female,22,14.7,83.9,59.6,7.0,2,High School,148291,No,Yes,55.3,Pass
+Male,18,17.3,70.3,66.1,7.2,3,Master,48146,Yes,Yes,57.7,Pass
+Female,22,14.3,70.5,53.0,8.5,6,Associate,62294,Yes,Yes,45.2,Fail
+Female,18,24.2,77.2,95.7,8.1,3,Associate,93596,Yes,Yes,68.2,Pass
+Male,19,10.3,81.0,69.0,7.0,1,Bachelor,40612,Yes,No,53.3,Pass
+Female,21,15.2,65.1,84.1,7.2,3,Associate,52120,No,Yes,53.0,Pass
+Male,21,9.5,69.3,74.9,5.2,7,High School,39294,Yes,Yes,47.2,Fail
+Female,21,6.1,97.8,67.4,6.3,6,Associate,102300,No,Yes,53.8,Pass
+Female,17,10.3,93.8,66.7,7.6,1,Bachelor,100119,No,Yes,61.1,Pass
+Male,16,13.8,49.3,57.8,7.5,3,Associate,99096,No,Yes,39.3,Fail
+Male,17,11.4,60.7,61.7,8.5,7,Bachelor,58615,Yes,Yes,49.0,Fail
+Male,20,9.8,67.0,53.9,6.9,4,Bachelor,44863,No,Yes,47.8,Fail
+Male,20,5.6,84.5,52.4,5.3,3,Bachelor,47469,No,Yes,40.7,Fail
+Male,22,13.5,74.0,97.2,8.3,0,Master,121101,No,Yes,69.8,Pass
+Female,16,5.0,65.3,71.9,8.7,6,Associate,107446,Yes,No,51.2,Pass
+Female,19,18.6,67.6,88.5,8.1,4,High School,130613,Yes,No,57.0,Pass
+Male,16,14.5,69.6,56.9,6.8,6,Associate,135456,No,Yes,35.0,Fail
+Male,18,5.3,86.3,50.5,8.3,6,Associate,81872,Yes,Yes,32.5,Fail
+Other,20,12.1,77.7,54.3,10.0,2,Bachelor,50208,No,Yes,52.9,Pass
+Female,15,9.5,50.3,62.1,7.1,5,High School,69998,Yes,Yes,42.6,Fail
+Female,15,15.9,78.2,68.5,5.4,4,Associate,74994,Yes,Yes,56.6,Pass
+Male,19,22.0,80.0,65.9,6.3,6,Bachelor,77895,Yes,Yes,61.8,Pass
+Female,18,2.7,99.2,57.2,7.8,4,Bachelor,50894,No,Yes,41.6,Fail
+Male,22,14.7,85.3,69.2,5.1,4,Bachelor,39990,Yes,No,51.5,Pass
+Male,17,13.0,71.6,70.5,7.2,2,Master,91230,Yes,Yes,62.0,Pass
+Female,18,18.0,88.8,77.8,7.5,5,Bachelor,54087,Yes,No,65.2,Pass
+Male,15,15.3,74.2,88.6,8.8,5,Bachelor,26673,Yes,Yes,63.1,Pass
+Male,15,9.5,80.4,62.9,8.6,3,Associate,50187,No,Yes,42.9,Fail
+Female,22,12.1,82.9,85.0,8.0,4,Doctorate,41553,Yes,Yes,69.3,Pass
+Male,20,9.2,81.1,68.9,4.4,5,Bachelor,61780,No,Yes,50.7,Pass
+Male,18,20.5,81.9,46.6,8.1,6,High School,122794,Yes,No,40.7,Fail
+Male,18,14.1,54.1,93.0,7.8,5,High School,100158,No,Yes,43.6,Fail
+Female,15,25.4,69.8,99.8,7.3,7,Bachelor,19420,Yes,Yes,73.5,Pass
+Male,17,13.6,82.6,76.7,4.9,5,Master,62310,No,No,52.0,Pass
+Female,19,9.7,54.6,69.3,6.1,2,High School,61953,No,Yes,45.4,Fail
+Female,21,4.9,41.6,64.2,5.6,7,High School,22987,No,Yes,33.8,Fail
+Male,19,3.2,66.7,61.5,4.6,1,Master,50456,No,Yes,41.1,Fail
+Female,18,4.5,91.8,84.9,7.0,5,Master,136763,Yes,Yes,64.1,Pass
+Female,19,15.6,74.3,67.8,6.0,6,High School,103398,Yes,Yes,46.8,Fail
+Male,15,17.1,62.9,91.4,10.0,4,Associate,135183,Yes,Yes,55.9,Pass
+Male,15,4.5,93.2,68.5,6.8,4,Bachelor,107782,Yes,Yes,47.1,Fail
+Male,22,19.4,54.3,62.2,8.6,4,Associate,140740,Yes,Yes,51.9,Pass
+Male,18,11.1,87.5,59.6,5.1,0,Master,47681,No,Yes,63.9,Pass
+Female,22,14.9,74.9,57.6,6.4,6,High School,26323,No,Yes,44.7,Fail
+Female,18,23.7,50.4,75.2,7.1,3,High School,85393,No,Yes,62.0,Pass
+Female,21,,80.7,49.9,5.9,3,High School,114123,Yes,Yes,57.9,Pass
+Male,21,12.4,74.3,56.5,6.5,5,High School,109354,No,Yes,46.0,Fail
+Male,20,8.7,75.1,86.5,6.7,5,High School,116808,No,Yes,60.1,Pass
+Male,18,1.1,82.6,54.6,6.7,3,High School,26484,Yes,Yes,50.3,Pass
+Male,17,9.7,77.5,80.1,9.2,2,Bachelor,88459,Yes,No,64.5,Pass
+Female,19,12.7,86.8,39.1,7.5,3,High School,145162,Yes,Yes,35.8,Fail
+Male,18,8.1,74.5,88.3,7.6,3,Master,99456,Yes,Yes,62.2,Pass
+Female,16,13.2,96.9,50.2,7.6,4,Associate,72890,Yes,Yes,49.3,Fail
+Male,20,14.5,73.0,55.7,7.7,1,Bachelor,31319,Yes,Yes,60.7,Pass
+Female,16,12.7,88.7,77.5,6.9,6,High School,125697,Yes,No,51.9,Pass
+Male,15,10.1,87.8,71.8,6.6,6,High School,144193,Yes,Yes,61.4,Pass
+Female,21,15.0,73.9,80.5,7.2,5,Bachelor,77432,No,Yes,58.1,Pass
+Female,19,16.7,65.8,50.1,8.4,5,Bachelor,85696,No,Yes,46.6,Fail
+Female,18,7.5,91.3,64.0,8.4,3,Bachelor,74485,No,Yes,51.6,Pass
+Male,16,22.5,88.6,59.4,6.7,1,Bachelor,140359,Yes,Yes,62.4,Pass
+Male,19,13.4,76.0,52.5,7.9,0,Bachelor,43294,Yes,Yes,56.0,Pass
+Female,15,14.1,90.8,76.3,6.8,3,Associate,26255,No,Yes,58.2,Pass
+Female,21,18.2,87.2,81.2,7.0,1,Master,127429,No,Yes,65.1,Pass
+Male,17,15.4,71.7,63.3,6.4,4,Bachelor,105464,Yes,Yes,52.7,Pass
+Female,20,19.7,78.1,89.3,6.8,1,Doctorate,149444,Yes,Yes,83.2,Pass
+Male,19,15.7,79.2,57.0,8.6,4,Master,130848,Yes,Yes,67.3,Pass
+Male,19,10.3,66.6,89.0,7.1,5,High School,41855,Yes,Yes,53.0,Pass
+Female,17,16.2,79.8,75.9,7.2,7,Associate,52758,Yes,Yes,61.5,Pass
+Female,19,7.1,92.2,50.9,5.3,7,Bachelor,123094,Yes,Yes,43.0,Fail
+Other,15,14.7,87.6,95.7,6.6,4,Bachelor,92089,No,Yes,64.4,Pass
+Female,15,13.8,99.6,61.8,6.7,3,Bachelor,23383,No,Yes,51.6,Pass
+Female,17,12.8,85.0,84.9,6.0,3,Bachelor,78112,No,No,63.3,Pass
+Male,20,13.2,97.4,70.0,7.0,5,High School,149787,Yes,Yes,59.1,Pass
+Male,18,2.7,73.1,73.2,6.5,7,High School,97486,Yes,Yes,48.5,Fail
+Other,16,10.7,91.9,80.6,7.1,2,High School,91528,Yes,Yes,64.8,Pass
+Male,18,14.6,96.7,79.8,7.1,5,Bachelor,117354,Yes,Yes,60.5,Pass
+Female,19,15.0,64.3,63.2,5.9,7,Bachelor,88278,No,Yes,45.6,Fail
+Female,16,7.8,84.9,75.4,6.5,4,Associate,31369,Yes,Yes,57.8,Pass
+Male,22,,45.2,74.4,7.1,2,Bachelor,78428,Yes,Yes,56.6,Pass
+Male,17,8.8,85.8,71.0,8.4,5,High School,83123,No,Yes,50.3,Pass
+Female,17,19.8,87.7,65.2,7.3,5,High School,108914,Yes,No,49.8,Fail
+Male,20,16.6,65.7,71.0,6.2,3,Bachelor,36064,No,No,58.1,Pass
+Female,16,10.1,67.1,95.5,7.5,8,Associate,31690,No,Yes,59.1,Pass
+Male,15,24.7,78.4,63.9,9.0,2,Bachelor,119025,Yes,Yes,70.5,Pass
+Female,16,6.8,86.2,84.9,8.1,4,Master,118867,Yes,Yes,66.7,Pass
+Female,19,19.5,61.9,59.3,7.7,4,Master,32559,No,No,44.7,Fail
+Female,15,20.0,74.2,55.7,7.9,6,High School,66429,Yes,Yes,47.8,Fail
+Female,21,10.0,64.5,100.0,8.7,4,Associate,34972,Yes,Yes,58.7,Pass
+Female,21,22.4,96.7,75.6,8.3,1,Bachelor,59530,Yes,No,67.2,Pass
+Male,22,12.5,80.2,75.9,7.7,2,Bachelor,141297,No,Yes,63.8,Pass
+Male,21,15.7,67.7,76.3,8.3,6,Bachelor,19365,No,Yes,47.5,Fail
+Male,17,15.6,89.3,87.7,5.7,5,High School,67683,No,No,53.0,Pass
+Male,16,13.2,74.8,73.7,5.2,8,High School,112356,Yes,Yes,48.0,Fail
+Female,21,18.9,93.5,79.4,7.2,4,Bachelor,147406,No,Yes,57.6,Pass
+Female,18,18.8,62.0,53.2,7.1,4,Bachelor,76896,Yes,Yes,52.4,Pass
+Male,20,3.5,83.3,81.8,6.3,4,Associate,117339,Yes,No,50.3,Pass
+Female,18,21.8,87.3,64.7,8.0,3,High School,38100,Yes,Yes,65.1,Pass
+Male,21,4.0,89.8,77.4,4.8,3,Bachelor,138763,Yes,Yes,55.8,Pass
+Female,22,20.2,83.5,44.0,6.4,7,High School,79645,Yes,No,45.9,Fail
+Male,20,20.8,72.2,76.8,6.4,3,High School,87551,No,Yes,56.9,Pass
+Female,19,7.5,83.7,36.6,5.0,3,High School,22840,No,Yes,25.0,Fail
+Male,18,11.5,60.6,64.1,8.8,6,Associate,104069,Yes,Yes,40.9,Fail
+Male,22,7.4,80.8,44.1,5.4,3,Bachelor,103990,Yes,Yes,47.7,Fail
+Other,16,12.7,77.4,76.9,6.3,3,Associate,66105,Yes,Yes,59.6,Pass
+Female,16,12.2,63.6,69.0,8.1,2,High School,23699,Yes,Yes,51.3,Pass
+Male,18,18.7,96.8,57.2,7.8,5,High School,105200,Yes,Yes,62.2,Pass
+Male,21,21.9,51.0,88.1,5.7,5,High School,115806,Yes,Yes,60.0,Pass
+Male,22,22.4,85.8,55.4,7.8,6,Bachelor,144473,Yes,Yes,65.7,Pass
+Male,16,10.6,95.0,35.0,7.3,3,High School,20822,Yes,Yes,32.0,Fail
+Male,19,12.7,75.2,75.2,9.8,6,Bachelor,108585,No,Yes,63.9,Pass
+Female,15,3.9,77.3,43.3,7.5,2,High School,105420,No,Yes,34.6,Fail
+Male,21,9.2,80.7,55.9,6.8,4,High School,31052,Yes,Yes,46.9,Fail
+Male,22,19.8,90.5,60.8,6.0,9,High School,101574,No,Yes,54.9,Pass
+Male,19,23.7,96.1,48.1,6.1,4,High School,148171,Yes,Yes,44.3,Fail
+Female,22,6.6,61.8,61.1,6.0,4,Bachelor,137879,No,Yes,42.5,Fail
+Female,20,10.4,98.9,48.3,8.6,1,Associate,34551,No,Yes,55.9,Pass
+Male,19,13.8,87.7,70.3,7.0,0,Master,87915,No,Yes,59.0,Pass
+Male,21,15.7,87.7,50.8,7.7,4,High School,25661,No,Yes,52.1,Pass
+Female,20,9.1,75.3,68.4,8.8,2,High School,90503,No,Yes,52.9,Pass
+Male,21,16.5,79.6,84.3,4.2,4,Associate,113406,No,Yes,59.0,Pass
+Female,16,11.2,87.7,79.0,8.5,2,Bachelor,103930,Yes,Yes,66.9,Pass
+Female,15,13.9,56.2,66.9,7.1,3,Associate,142534,No,Yes,54.5,Pass
+Female,21,17.3,79.8,54.2,7.5,4,Associate,149904,No,Yes,52.8,Pass
+Female,21,14.0,86.7,70.2,6.0,4,Associate,76859,No,No,55.9,Pass
+Male,16,11.4,78.7,58.3,6.1,4,High School,62630,Yes,Yes,43.6,Fail
+Female,17,13.3,93.5,70.8,7.6,4,Master,19076,Yes,No,63.2,Pass
+Male,16,13.5,50.5,44.0,9.9,4,Associate,131868,Yes,No,41.6,Fail
+Other,20,11.8,69.0,79.3,8.2,6,Bachelor,116343,No,Yes,59.7,Pass
+Male,16,12.4,40.0,68.5,8.5,5,Bachelor,81705,No,Yes,39.7,Fail
+Male,16,23.6,81.3,98.9,6.8,4,Associate,132870,Yes,Yes,77.2,Pass
+Female,15,17.4,94.7,86.3,6.3,6,High School,113395,Yes,Yes,58.6,Pass
+Male,16,12.2,69.6,75.9,6.1,2,Bachelor,121800,No,Yes,67.0,Pass
+Male,22,18.2,87.2,66.3,6.4,6,High School,63760,Yes,Yes,50.5,Pass
+Female,21,12.0,76.4,57.8,4.5,4,Associate,141476,No,Yes,40.1,Fail
+Male,22,21.0,97.6,81.2,6.1,2,Bachelor,53276,No,No,63.5,Pass
+Male,15,16.2,67.4,64.8,6.3,10,Bachelor,79913,Yes,Yes,55.1,Pass
+Male,18,13.4,75.7,84.4,6.8,4,Bachelor,91608,Yes,Yes,63.8,Pass
+Male,17,,65.7,73.6,7.2,5,Bachelor,31348,No,Yes,62.7,Pass
+Male,22,4.6,95.4,73.7,7.4,6,High School,64678,No,Yes,47.8,Fail
+Female,15,7.2,69.6,76.3,7.0,5,Associate,132369,Yes,Yes,49.3,Fail
+Male,20,6.8,92.5,55.1,6.3,2,High School,18318,Yes,Yes,45.3,Fail
+Male,18,14.9,57.6,53.7,4.6,1,Bachelor,95354,Yes,Yes,47.0,Fail
+Female,15,24.4,78.6,53.2,6.3,4,Doctorate,44011,Yes,No,51.5,Pass
+Female,15,27.4,77.8,82.7,5.8,4,High School,36787,Yes,Yes,61.8,Pass
+Female,17,17.8,87.6,54.8,7.6,7,High School,130286,No,Yes,41.5,Fail
+Male,21,17.0,94.1,56.5,8.1,2,Associate,127160,No,Yes,58.9,Pass
+Other,22,3.2,82.1,75.5,8.1,1,Master,117032,No,Yes,64.1,Pass
+Female,20,10.7,59.5,64.5,7.9,6,Bachelor,120305,Yes,Yes,50.2,Pass
+Male,19,9.3,70.3,62.7,6.8,3,High School,26752,No,No,38.5,Fail
+Female,22,10.3,59.7,61.5,6.4,1,Doctorate,142345,Yes,Yes,58.8,Pass
+Male,19,13.0,95.6,35.4,6.1,3,Master,98506,No,No,45.1,Fail
+Male,15,11.2,90.7,54.5,5.2,4,High School,128382,No,Yes,50.8,Pass
+Male,16,2.1,73.5,84.5,8.2,1,Master,116328,No,Yes,52.7,Pass
+Female,20,18.5,80.9,60.4,6.8,3,Associate,30657,No,Yes,48.9,Fail
+Female,18,7.6,84.4,41.4,5.5,5,Associate,99119,No,Yes,42.8,Fail
+Female,16,15.4,87.9,53.9,6.0,1,Associate,39491,No,Yes,51.9,Pass
+Female,16,26.4,89.3,73.0,6.0,2,Master,121010,No,Yes,72.9,Pass
+Male,22,8.5,91.0,72.8,7.1,5,Bachelor,146801,Yes,Yes,53.5,Pass
+Male,20,1.0,61.2,63.9,8.3,7,High School,60180,Yes,Yes,41.5,Fail
+Other,21,12.3,73.8,58.4,6.6,6,Doctorate,36540,No,Yes,53.9,Pass
+Other,15,20.6,86.1,48.4,4.3,1,High School,25943,Yes,Yes,45.0,Fail
+Male,15,25.8,91.3,73.2,6.8,2,Bachelor,138730,Yes,Yes,69.8,Pass
+Male,15,6.6,90.0,79.7,6.8,2,Bachelor,26911,No,Yes,48.1,Fail
+Male,15,17.0,68.1,86.0,6.7,2,High School,81000,Yes,Yes,67.9,Pass
+Male,22,11.2,74.7,52.5,6.2,8,High School,87305,Yes,Yes,35.3,Fail
+Female,19,13.4,75.1,87.1,7.3,7,Master,20479,No,Yes,58.7,Pass
+Female,15,29.9,84.9,67.2,7.1,2,Associate,28112,Yes,No,63.7,Pass
+Female,19,5.0,92.9,68.4,7.0,2,Bachelor,127575,Yes,Yes,52.3,Pass
+Male,19,15.5,66.9,80.5,7.5,4,Associate,64809,Yes,Yes,67.5,Pass
+Male,21,16.8,46.0,60.4,6.5,7,Bachelor,50205,Yes,Yes,43.2,Fail
+Female,15,20.5,89.6,37.7,6.4,8,Associate,128947,No,Yes,42.7,Fail
+Male,17,14.6,94.5,77.9,8.7,3,High School,52826,No,No,52.6,Pass
+Male,18,15.8,86.9,72.9,7.7,4,Associate,144201,Yes,No,53.6,Pass
+Female,16,11.7,80.0,63.0,8.0,2,Master,105691,Yes,No,55.1,Pass
+Female,19,15.6,77.9,76.7,8.5,3,Associate,134558,Yes,No,61.1,Pass
+Male,20,11.9,79.7,79.6,7.6,3,High School,119925,Yes,Yes,58.3,Pass
+Male,20,17.7,82.3,46.8,8.1,7,Master,114320,No,Yes,46.1,Fail
+Male,18,11.8,75.5,68.3,5.1,2,Bachelor,50401,No,Yes,53.2,Pass
+Male,20,16.3,90.0,36.1,7.2,6,High School,108236,Yes,Yes,37.5,Fail
+Male,17,13.8,63.2,66.3,6.8,2,Doctorate,82702,Yes,Yes,64.8,Pass
+Male,20,20.8,65.1,62.8,9.0,2,Bachelor,97297,Yes,Yes,56.5,Pass
+Male,16,13.7,88.3,74.9,8.1,3,High School,126327,Yes,Yes,56.7,Pass
+Male,16,3.4,93.8,53.0,6.2,7,High School,90353,No,Yes,29.9,Fail
+Female,19,21.6,82.7,62.1,7.4,3,Bachelor,25430,Yes,Yes,58.7,Pass
+Female,15,8.6,82.0,35.0,7.2,2,Bachelor,52484,Yes,Yes,53.6,Pass
+Female,21,10.1,40.0,75.8,7.5,6,High School,142506,Yes,Yes,47.5,Fail
+Male,17,10.4,75.7,66.8,5.8,0,High School,46604,No,Yes,55.4,Pass
+Male,19,22.2,78.2,69.2,7.4,2,Associate,125385,No,Yes,59.5,Pass
+Male,17,1.2,89.3,47.1,6.7,3,Bachelor,35762,Yes,No,29.7,Fail
+Female,15,32.8,90.4,73.6,7.3,3,High School,137272,No,Yes,66.4,Pass
+Female,22,20.3,93.2,91.1,6.1,1,High School,107230,Yes,Yes,70.9,Pass
+Female,20,15.3,85.2,65.4,6.3,4,Bachelor,97091,No,Yes,59.6,Pass
+Female,20,13.7,89.8,77.1,8.4,5,Bachelor,132919,No,Yes,59.4,Pass
+Male,21,15.7,59.3,55.8,5.7,3,Associate,148731,Yes,Yes,44.2,Fail
+Female,15,17.1,69.4,66.9,5.8,1,Associate,28004,Yes,Yes,56.0,Pass
+Female,19,17.9,69.8,46.6,6.9,4,Associate,121726,Yes,Yes,46.4,Fail
+Male,21,17.3,57.9,79.0,6.1,5,Associate,18247,No,Yes,55.0,Pass
+Female,15,14.5,89.8,70.2,5.9,5,Doctorate,129902,Yes,Yes,62.9,Pass
+Male,18,12.8,82.5,50.9,7.1,0,Bachelor,63995,No,No,43.8,Fail
+Male,16,13.1,51.3,56.8,5.2,7,High School,77423,No,Yes,39.7,Fail
+Female,21,12.8,78.2,68.9,5.8,4,Associate,79969,Yes,Yes,50.6,Pass
+Male,21,20.8,61.1,80.9,9.5,1,Associate,47052,Yes,No,59.0,Pass
+Male,19,17.6,87.8,88.7,7.6,8,Bachelor,67214,No,Yes,60.2,Pass
+Male,17,1.0,54.7,66.1,6.1,3,Associate,86858,Yes,Yes,44.0,Fail
+Female,18,17.9,85.7,48.9,7.5,1,Master,58765,Yes,Yes,52.1,Pass
+Male,19,15.2,74.2,71.3,7.7,2,Bachelor,63284,Yes,Yes,60.3,Pass
+Male,15,13.9,69.4,93.0,8.2,7,Associate,68034,Yes,Yes,65.7,Pass
+Female,15,11.7,77.1,45.3,6.8,4,Master,51161,Yes,No,47.2,Fail
+Female,15,20.7,93.9,54.6,8.2,4,Bachelor,71565,No,Yes,53.8,Pass
+Other,22,19.7,58.7,76.6,4.6,3,Bachelor,79314,No,Yes,54.0,Pass
+Male,15,9.4,66.3,70.2,5.7,2,Doctorate,137378,Yes,Yes,59.4,Pass
+Female,17,16.4,86.8,60.4,7.2,5,High School,69929,Yes,Yes,55.8,Pass
+Male,18,8.2,82.4,71.1,7.4,2,High School,26086,No,No,55.3,Pass
+Female,20,5.7,48.3,81.7,5.9,4,Master,117209,No,Yes,41.5,Fail
+Female,16,10.2,78.6,66.6,7.3,6,Bachelor,136409,No,Yes,51.6,Pass
+Female,17,19.2,80.4,65.4,6.3,3,Master,100563,Yes,No,60.0,Pass
+Female,17,,75.2,76.2,6.7,5,High School,131212,Yes,Yes,57.3,Pass
+Female,22,17.1,90.8,64.2,8.2,3,Bachelor,123317,Yes,Yes,63.4,Pass
+Female,20,18.4,75.9,84.0,8.1,4,High School,63602,Yes,Yes,60.2,Pass
+Male,20,17.1,91.8,96.4,5.8,2,Associate,94213,Yes,Yes,65.7,Pass
+Female,16,10.2,73.5,55.5,5.7,8,High School,130355,Yes,No,40.0,Fail
+Female,16,16.6,63.0,50.5,6.5,4,High School,70545,No,Yes,45.3,Fail
+Male,20,18.8,88.4,73.2,7.0,5,High School,126720,No,Yes,55.8,Pass
+Female,15,18.5,83.4,50.0,6.2,3,Bachelor,33009,No,Yes,57.2,Pass
+Male,17,21.1,84.2,49.8,8.2,4,Associate,48246,Yes,Yes,53.4,Pass
+Female,19,18.2,88.7,39.3,7.4,6,High School,46185,Yes,Yes,48.6,Fail
+Female,16,16.1,76.4,62.6,7.5,3,Associate,142868,Yes,Yes,47.3,Fail
+Female,22,20.4,91.8,67.5,5.5,5,High School,104488,No,Yes,66.1,Pass
+Female,22,13.8,68.4,60.8,8.4,6,Master,64642,Yes,Yes,52.5,Pass
+Female,16,8.7,77.2,87.5,4.0,4,Associate,27185,Yes,Yes,55.0,Pass
+Female,20,13.0,80.4,86.4,8.0,3,Associate,82366,No,Yes,58.5,Pass
+Female,18,9.5,83.3,95.0,8.1,5,Master,35505,Yes,Yes,62.3,Pass
+Female,19,9.9,47.1,68.7,6.5,2,Bachelor,46022,Yes,Yes,44.2,Fail
+Female,19,13.1,97.3,84.6,8.5,7,Bachelor,98196,Yes,Yes,65.1,Pass
+Female,16,9.2,80.4,72.3,6.9,4,Bachelor,92385,Yes,Yes,57.1,Pass
+Female,15,12.2,75.6,70.9,7.1,3,Master,88272,No,No,54.7,Pass
+Male,18,2.6,53.7,61.5,7.4,2,High School,21909,No,Yes,38.2,Fail
+Male,19,15.3,82.8,36.3,10.0,2,Doctorate,149866,Yes,Yes,54.5,Pass
+Female,16,14.0,43.9,76.9,8.6,2,Master,101481,Yes,Yes,51.5,Pass
+Male,22,9.1,67.9,84.2,7.8,0,Bachelor,76527,No,Yes,56.2,Pass
+Male,19,18.0,69.6,46.6,5.9,5,Bachelor,41807,No,Yes,46.6,Fail
+Female,21,19.6,69.8,67.9,7.2,4,Bachelor,28856,Yes,Yes,55.9,Pass
+Male,18,4.4,88.2,81.9,6.0,1,High School,110205,Yes,Yes,58.3,Pass
+Male,18,9.4,80.7,63.0,8.0,3,High School,121303,Yes,Yes,50.1,Pass
+Female,21,9.4,69.8,84.7,7.2,9,Doctorate,87098,No,Yes,55.2,Pass
+Female,17,8.4,58.5,66.0,5.7,3,Associate,134382,No,Yes,45.5,Fail
+Male,22,19.0,61.4,60.6,7.1,5,Associate,137443,No,Yes,50.5,Pass
+Male,21,12.8,88.1,85.5,6.0,7,Bachelor,120900,Yes,Yes,65.4,Pass
+Female,20,12.4,,54.9,7.2,6,Associate,147611,No,Yes,56.7,Pass
+Female,20,2.0,71.6,57.9,6.0,4,High School,38897,Yes,Yes,45.5,Fail
+Female,16,17.8,97.8,55.5,7.0,4,Bachelor,105236,Yes,Yes,51.7,Pass
+Female,18,6.6,83.8,52.0,7.9,6,Bachelor,119751,No,Yes,39.2,Fail
+Male,17,14.4,76.5,70.1,6.9,3,High School,139918,Yes,Yes,53.2,Pass
+Female,17,15.7,69.7,60.8,6.5,2,Doctorate,66671,Yes,Yes,55.4,Pass
+Female,19,22.2,89.3,74.8,7.2,4,High School,121533,Yes,Yes,64.5,Pass
+Male,19,6.1,75.2,43.7,7.8,0,Associate,78874,Yes,Yes,47.8,Fail
+Female,21,1.0,86.7,52.3,5.7,5,High School,126459,No,Yes,35.5,Fail
+Female,17,15.1,81.6,68.7,7.3,3,Bachelor,111679,No,Yes,62.7,Pass
+Male,21,24.8,88.6,88.6,8.6,5,Associate,144750,Yes,Yes,77.8,Pass
+Male,22,21.4,60.8,73.3,7.7,4,Associate,88400,Yes,Yes,48.8,Fail
+Male,21,15.3,69.8,59.7,7.1,1,Master,27676,No,Yes,47.6,Fail
+Male,19,11.1,66.6,47.1,7.8,9,High School,22234,Yes,Yes,43.8,Fail
+Female,18,18.8,50.7,58.9,7.5,4,Bachelor,130451,Yes,Yes,55.5,Pass
+Female,21,8.2,89.9,67.4,7.9,2,Bachelor,102259,No,Yes,57.8,Pass
+Male,15,16.9,72.1,35.0,4.6,6,Doctorate,52626,Yes,Yes,47.2,Fail
+Female,18,17.0,76.9,51.0,5.1,5,Bachelor,19207,No,Yes,47.4,Fail
+Female,17,20.4,78.0,57.7,8.2,6,High School,147330,Yes,Yes,54.8,Pass
+Female,17,30.6,90.5,64.4,5.2,6,High School,100844,Yes,Yes,62.1,Pass
+Female,21,16.4,57.3,67.2,7.5,5,Master,70097,No,Yes,58.9,Pass
+Female,18,10.9,66.6,59.4,6.6,2,Master,138069,Yes,Yes,50.1,Pass
+Female,19,13.8,73.2,75.1,5.8,2,Associate,71591,Yes,Yes,57.6,Pass
+Female,19,3.4,85.1,69.7,7.4,4,Bachelor,129248,Yes,Yes,58.1,Pass
+Female,20,9.8,87.8,62.8,7.2,4,Associate,95313,No,Yes,51.0,Pass
+Male,17,11.5,72.2,77.0,9.5,8,Doctorate,122249,Yes,Yes,63.2,Pass
+Male,16,10.9,98.6,75.9,6.3,3,Master,58459,Yes,Yes,68.3,Pass
+Male,20,14.9,69.2,47.6,8.7,2,Doctorate,120331,Yes,Yes,53.0,Pass
+Male,19,9.1,63.6,67.6,7.4,0,Master,120599,Yes,No,48.6,Fail
+Male,18,20.7,95.6,80.5,6.2,5,Master,96405,No,Yes,63.0,Pass
+Female,22,14.0,88.5,82.8,8.0,3,High School,107399,No,Yes,53.4,Pass
+Male,19,13.9,91.3,73.2,7.7,3,Master,62802,Yes,Yes,55.6,Pass
+Male,18,12.0,65.4,64.7,7.0,1,Bachelor,36782,No,Yes,57.1,Pass
+Male,20,14.9,94.5,73.9,7.3,3,Doctorate,128446,Yes,Yes,58.7,Pass
+Female,17,19.0,73.1,79.3,6.3,4,Bachelor,85963,Yes,Yes,71.8,Pass
+Female,19,8.8,75.2,69.6,6.0,3,High School,94303,Yes,Yes,48.0,Fail
+Female,21,10.1,78.7,71.2,7.9,0,Bachelor,101956,Yes,Yes,58.6,Pass
+Female,18,12.2,57.8,64.5,6.7,1,Bachelor,54123,Yes,Yes,45.4,Fail
+Male,17,5.9,96.4,49.3,6.9,5,High School,74198,Yes,Yes,47.1,Fail
+Male,22,9.1,85.7,65.6,7.3,3,Associate,70872,No,Yes,49.9,Fail
+Female,22,11.1,56.6,58.5,7.3,1,Bachelor,22902,No,No,44.6,Fail
+Other,16,19.2,63.2,58.6,5.3,8,Associate,66554,No,Yes,40.7,Fail
+Male,18,15.6,50.4,88.1,8.5,8,Associate,98490,Yes,Yes,57.3,Pass
+Female,20,15.2,71.7,81.3,7.1,1,High School,75465,Yes,Yes,55.5,Pass
+Female,16,19.1,88.1,44.3,6.8,5,Master,50800,No,Yes,52.3,Pass
+Female,16,13.2,66.5,52.8,7.5,2,Bachelor,115143,Yes,Yes,53.2,Pass
+Female,15,16.3,81.4,62.9,7.3,7,High School,136529,No,Yes,55.4,Pass
+Female,19,13.4,57.3,59.0,7.9,1,Bachelor,96871,Yes,Yes,56.2,Pass
+Female,18,15.6,83.2,72.4,7.6,3,Bachelor,89713,No,Yes,59.2,Pass
+Female,16,10.5,47.8,50.6,7.9,7,High School,59206,Yes,Yes,36.8,Fail
+Female,15,1.0,88.0,81.4,8.6,6,Associate,21926,Yes,Yes,55.6,Pass
+Male,20,13.2,96.5,67.4,8.1,2,Bachelor,131682,Yes,Yes,66.4,Pass
+Female,17,22.5,86.3,63.2,6.8,3,Associate,61056,No,No,50.9,Pass
+Male,21,19.6,78.0,67.8,5.7,4,Bachelor,86495,Yes,Yes,64.1,Pass
+Female,21,19.8,55.2,62.2,9.0,3,Associate,102147,No,Yes,45.7,Fail
+Other,18,21.4,93.8,39.6,6.7,4,High School,74714,Yes,Yes,52.8,Pass
+Female,16,14.5,96.4,68.2,6.4,2,Doctorate,147613,Yes,Yes,69.4,Pass
+Female,21,15.2,72.3,63.5,4.9,4,High School,20478,Yes,No,43.7,Fail
+Male,19,,61.5,54.6,7.4,3,Bachelor,82546,Yes,Yes,40.3,Fail
+Male,21,12.1,80.2,83.4,7.2,6,High School,137147,Yes,Yes,55.2,Pass
+Male,21,17.7,87.0,77.4,5.2,7,Associate,106373,Yes,Yes,45.9,Fail
+Female,21,21.2,84.3,100.0,7.5,3,Associate,47974,No,Yes,68.8,Pass
+Female,22,13.2,92.6,79.7,6.4,4,High School,62183,No,Yes,50.4,Pass
+Male,15,11.3,58.8,59.0,10.0,2,Associate,118361,No,Yes,62.2,Pass
+Male,16,14.0,74.4,55.3,6.3,2,High School,75148,No,Yes,51.5,Pass
+Male,19,17.6,95.9,61.1,6.5,4,Bachelor,130007,Yes,Yes,60.6,Pass
+Male,16,5.3,66.6,58.7,6.0,1,Bachelor,130239,Yes,Yes,55.3,Pass
+Female,22,1.0,70.5,69.5,8.5,4,High School,126747,No,Yes,46.3,Fail
+Male,18,10.7,58.1,46.5,6.6,3,Master,119245,Yes,Yes,40.4,Fail
+Female,18,6.7,88.4,77.1,6.1,11,High School,41382,No,Yes,42.4,Fail
+Female,18,11.0,76.6,69.3,7.8,3,High School,44649,Yes,Yes,58.0,Pass
+Female,20,13.1,42.5,75.5,5.3,4,Bachelor,128559,Yes,Yes,46.2,Fail
+Male,21,11.3,93.9,52.0,7.8,10,Associate,116099,Yes,Yes,49.0,Fail
+Female,20,22.7,73.5,71.5,9.1,5,Associate,48373,Yes,Yes,63.9,Pass
+Female,15,16.0,80.1,86.2,7.7,3,High School,40791,No,Yes,57.9,Pass
+Male,18,15.8,80.0,56.0,7.8,3,Master,41115,Yes,Yes,58.4,Pass
+Female,22,17.7,70.6,55.6,8.0,3,Bachelor,131109,No,No,52.8,Pass
+Male,19,7.2,93.8,78.0,9.1,3,High School,101489,No,Yes,59.0,Pass
+Female,16,20.2,92.2,54.4,8.5,3,Associate,41877,Yes,Yes,60.6,Pass
+Female,21,13.5,76.1,64.7,7.5,1,Master,58273,No,Yes,56.9,Pass
+Male,17,18.0,79.2,88.7,8.1,4,Bachelor,74035,Yes,Yes,70.4,Pass
+Female,19,7.6,78.4,55.8,5.9,6,High School,129141,Yes,Yes,33.2,Fail
+Female,21,4.7,79.7,89.6,7.9,3,Associate,59767,No,Yes,63.6,Pass
+Female,20,18.9,76.9,63.3,5.8,4,High School,138456,Yes,Yes,52.7,Pass
+Female,20,16.3,74.1,52.3,6.6,3,Associate,76565,Yes,Yes,47.1,Fail
+Other,19,8.6,84.1,76.5,4.0,4,Master,107461,Yes,Yes,62.0,Pass
+Female,20,8.8,89.0,69.5,7.5,4,Associate,146577,Yes,Yes,58.3,Pass
+Male,18,20.8,81.8,68.2,6.2,6,Associate,128159,No,Yes,49.9,Fail
+Female,15,6.9,94.8,57.2,8.3,3,Master,41091,No,Yes,53.8,Pass
+Male,16,23.9,73.8,69.4,7.5,6,Bachelor,37584,No,Yes,58.1,Pass
+Male,15,8.6,91.3,39.1,8.3,3,Bachelor,122861,Yes,Yes,48.2,Fail
+Male,21,17.8,79.2,71.1,5.7,0,High School,140235,No,Yes,64.3,Pass
+Female,16,12.0,78.6,86.2,8.2,6,Bachelor,132688,No,Yes,58.5,Pass
+Female,22,17.6,89.2,43.3,9.5,4,Bachelor,34550,Yes,Yes,53.5,Pass
+Female,16,10.7,89.2,62.3,7.9,7,Associate,110816,Yes,Yes,48.4,Fail
+Male,15,13.0,94.2,55.8,7.9,4,Doctorate,29631,Yes,Yes,56.1,Pass
+Male,19,14.2,86.3,46.8,7.2,7,Master,19125,Yes,Yes,53.3,Pass
+Male,16,8.0,88.7,39.3,6.4,1,Bachelor,68581,Yes,Yes,45.8,Fail
+Female,22,18.4,88.1,51.5,7.9,2,Associate,40485,Yes,Yes,55.1,Pass
+Male,22,10.9,96.5,64.6,5.2,1,Associate,126539,No,Yes,55.7,Pass
+Male,22,12.6,87.6,84.1,6.5,4,High School,101554,Yes,No,57.1,Pass
+Female,15,8.0,83.4,46.7,4.9,7,Associate,92398,No,Yes,39.8,Fail
+Female,16,1.0,70.8,72.1,6.2,2,Bachelor,33740,No,Yes,48.8,Fail
+Male,17,12.9,75.1,71.1,7.8,2,Associate,106560,Yes,Yes,60.2,Pass
+Male,19,28.5,66.1,91.4,7.6,9,Master,103877,No,Yes,79.4,Pass
+Male,18,18.7,79.5,76.0,7.1,4,High School,27156,Yes,Yes,65.1,Pass
+Female,16,13.9,51.2,76.8,7.2,3,Associate,132968,No,Yes,48.7,Fail
+Male,22,12.4,91.4,77.8,4.7,9,Bachelor,114589,No,Yes,60.5,Pass
+Female,17,14.1,72.1,55.1,6.6,2,Associate,81389,Yes,Yes,45.6,Fail
+Female,18,17.3,76.0,60.0,6.2,3,Master,88938,Yes,Yes,55.3,Pass
+Female,18,,49.5,83.6,6.2,3,Doctorate,85500,Yes,Yes,60.7,Pass
+Male,21,20.7,88.9,39.3,7.7,2,High School,78734,Yes,Yes,54.4,Pass
+Male,16,18.3,85.2,58.4,6.0,2,High School,50337,No,Yes,54.8,Pass
+Male,15,18.3,79.8,49.4,6.3,6,High School,105095,Yes,Yes,44.5,Fail
+Female,16,16.6,80.8,71.3,4.5,1,Bachelor,81829,No,Yes,55.6,Pass
+Male,17,14.1,89.0,62.1,6.6,10,Associate,87830,Yes,Yes,51.1,Pass
+Female,18,18.0,40.0,76.8,5.7,4,Bachelor,64939,No,Yes,49.6,Fail
+Male,16,17.6,76.5,66.5,7.1,4,Associate,30965,Yes,Yes,60.8,Pass
+Female,15,11.9,90.4,46.4,5.9,4,Bachelor,30228,Yes,Yes,49.1,Fail
+Female,21,10.6,57.5,47.0,7.1,1,Bachelor,66419,No,Yes,41.6,Fail
+Female,16,14.6,59.5,67.9,6.8,6,Associate,114913,Yes,Yes,41.8,Fail
+Female,19,23.3,87.4,57.2,9.0,3,Associate,67229,No,Yes,61.7,Pass
+Male,21,6.6,65.8,60.5,7.6,2,High School,48070,No,Yes,44.4,Fail
+Male,15,5.2,83.9,81.1,4.8,2,Associate,142045,Yes,Yes,45.2,Fail
+Female,17,15.0,62.5,78.6,5.5,2,Associate,25135,No,Yes,56.3,Pass
+Male,18,14.3,82.6,93.2,7.1,6,Associate,117093,No,Yes,58.6,Pass
+Female,16,15.0,70.7,63.6,5.9,10,Master,117626,Yes,Yes,55.2,Pass
+Male,15,15.5,82.6,59.0,4.0,3,Master,57441,Yes,No,53.6,Pass
+Male,21,12.7,63.3,73.9,8.6,4,Master,134190,No,Yes,51.2,Pass
+Male,19,22.9,87.6,60.1,7.9,3,Associate,114108,Yes,Yes,69.2,Pass
+Female,15,4.4,61.0,60.6,7.6,4,Bachelor,93043,Yes,Yes,53.9,Pass
+Male,20,9.0,79.1,65.2,6.3,2,Associate,21062,Yes,No,49.0,Fail
+Male,22,13.4,71.3,91.1,7.5,9,High School,108236,Yes,Yes,57.6,Pass
+Female,19,4.1,93.0,77.9,6.2,6,Associate,70214,Yes,No,49.1,Fail
+Female,21,12.9,83.5,79.3,7.2,3,High School,71409,Yes,Yes,50.1,Pass
+Male,17,24.0,73.4,90.5,5.9,4,Associate,86089,No,Yes,70.6,Pass
+Male,18,14.1,96.7,80.6,8.8,2,Associate,112047,No,Yes,59.1,Pass
+Male,21,15.4,66.3,52.2,5.1,3,Doctorate,35428,Yes,Yes,60.2,Pass
+Male,22,6.4,81.5,80.4,8.5,5,Associate,126283,Yes,Yes,59.5,Pass
+Male,17,10.3,66.9,82.2,7.0,2,Master,52734,Yes,Yes,62.8,Pass
+Female,16,11.7,65.3,77.1,6.4,4,High School,83107,No,Yes,48.9,Fail
+Female,15,12.1,54.4,65.3,7.2,2,High School,104889,Yes,Yes,51.4,Pass
+Female,20,21.7,97.8,75.6,7.9,5,Associate,130168,Yes,Yes,61.2,Pass
+Male,19,17.3,79.2,67.7,8.6,3,Bachelor,102170,Yes,Yes,67.4,Pass
+Female,19,7.3,66.0,54.3,7.4,4,High School,52782,Yes,Yes,43.1,Fail
+Male,15,15.5,81.4,57.8,5.9,5,High School,88160,Yes,Yes,57.3,Pass
+Male,20,17.0,78.3,77.9,7.1,1,Associate,136296,No,Yes,59.2,Pass
+Male,15,20.8,,55.3,9.2,3,Associate,71077,Yes,Yes,60.5,Pass
+Female,16,23.5,54.0,56.6,8.6,3,Bachelor,46534,Yes,No,53.3,Pass
+Male,22,7.9,72.7,78.5,8.1,2,Associate,56636,No,Yes,56.4,Pass
+Female,17,9.1,73.6,69.9,8.0,5,High School,117108,No,Yes,56.0,Pass
+Male,21,6.5,88.9,76.1,7.8,2,Master,68486,Yes,Yes,60.0,Pass
+Female,19,12.6,48.2,50.8,8.4,6,High School,112096,Yes,No,35.6,Fail
+Female,16,16.8,84.3,75.7,6.5,2,Bachelor,51435,No,Yes,61.0,Pass
+Male,17,19.9,95.8,58.8,5.4,3,Bachelor,51152,No,Yes,46.4,Fail
+Female,16,13.5,57.9,53.8,7.1,6,Doctorate,127620,No,Yes,44.4,Fail
+Female,20,12.1,94.3,60.9,6.0,6,Associate,76952,No,Yes,47.5,Fail
+Male,19,14.9,97.6,87.1,5.7,2,Bachelor,37638,Yes,Yes,82.6,Pass
+Male,21,9.0,75.3,62.9,6.1,3,Associate,135436,Yes,No,48.7,Fail
+Male,15,26.5,94.9,98.8,10.0,3,Bachelor,34396,Yes,Yes,83.2,Pass
+Male,15,4.4,90.4,39.1,7.2,6,Associate,41838,Yes,Yes,33.5,Fail
+Male,17,15.1,85.6,46.4,7.4,0,Associate,56919,No,Yes,49.9,Fail
+Female,21,26.1,89.1,86.5,5.5,1,Master,95895,No,Yes,78.0,Pass
+Female,22,14.0,56.2,90.1,4.8,7,High School,65995,No,Yes,62.4,Pass
+Female,18,12.9,66.5,55.9,6.0,6,Master,93593,No,Yes,43.4,Fail
+Male,20,11.9,88.5,69.0,8.7,2,Master,149172,No,Yes,51.0,Pass
+Male,17,12.9,62.8,78.0,7.4,7,Associate,112191,Yes,Yes,48.8,Fail
+Female,18,22.2,68.1,64.8,7.7,2,Associate,88514,Yes,Yes,54.6,Pass
+Female,16,1.0,70.8,70.1,7.9,7,Associate,28988,Yes,Yes,41.5,Fail
+Male,20,23.2,89.2,68.2,6.3,4,Doctorate,137392,Yes,Yes,72.8,Pass
+Female,16,5.5,92.1,47.3,8.7,2,High School,133137,Yes,Yes,48.4,Fail
+Male,22,12.4,85.4,63.2,6.2,6,Bachelor,95229,Yes,Yes,48.5,Fail
+Male,21,11.4,42.3,68.2,8.7,3,Bachelor,119471,No,Yes,54.1,Pass
+Male,19,17.5,81.1,69.4,7.5,4,Master,56148,Yes,Yes,72.0,Pass
+Female,20,4.4,78.7,43.8,4.9,1,Bachelor,42696,No,Yes,33.4,Fail
+Male,18,16.8,97.7,78.6,6.1,3,Bachelor,29629,No,Yes,69.8,Pass
+Male,22,26.1,83.8,69.8,4.9,4,High School,49051,No,Yes,56.8,Pass
+Male,19,5.8,85.0,53.2,8.4,3,Associate,51469,Yes,Yes,43.7,Fail
+Male,15,15.1,78.9,93.2,7.0,2,High School,90372,Yes,Yes,57.1,Pass
+Male,18,10.0,91.4,63.1,4.3,5,Master,61406,Yes,Yes,53.7,Pass
+Male,17,16.6,84.8,64.1,7.5,1,Bachelor,105754,Yes,Yes,58.7,Pass
+Female,15,14.1,78.6,77.0,6.4,2,Bachelor,53017,Yes,Yes,62.5,Pass
+Male,22,10.2,86.8,94.4,5.2,1,Bachelor,28705,Yes,Yes,78.4,Pass
+Male,15,,80.9,77.5,9.0,6,Associate,104911,Yes,Yes,57.6,Pass
+Female,17,24.8,96.6,79.6,7.1,1,High School,110469,Yes,Yes,62.5,Pass
+Male,20,12.9,86.1,54.0,6.6,2,Associate,91654,No,Yes,48.1,Fail
+Male,15,18.3,76.8,69.2,6.5,6,High School,110185,No,Yes,56.1,Pass
+Male,21,,86.7,60.5,5.2,3,Bachelor,63318,Yes,Yes,50.8,Pass
+Female,18,8.3,70.6,77.9,5.4,2,High School,92070,No,Yes,53.0,Pass
+Female,19,16.8,75.4,79.2,8.5,3,Bachelor,67869,Yes,Yes,64.5,Pass
+Other,15,22.9,90.6,90.9,6.4,2,Bachelor,21255,Yes,Yes,74.3,Pass
+Male,18,16.1,86.6,37.8,7.0,8,Associate,138478,Yes,Yes,52.3,Pass
+Female,16,12.1,78.3,59.2,4.5,13,High School,45841,No,Yes,32.8,Fail
+Male,18,14.0,61.4,86.2,5.4,3,Associate,23334,Yes,Yes,52.9,Pass
+Male,19,6.5,83.1,48.4,7.7,6,Associate,123134,Yes,Yes,39.5,Fail
+Male,18,17.6,77.5,79.3,7.5,0,Bachelor,58522,Yes,Yes,68.2,Pass
+Male,17,19.3,71.1,83.9,9.1,4,High School,48697,Yes,Yes,61.5,Pass
+Female,22,11.3,95.0,67.6,8.6,3,Master,119936,Yes,Yes,66.3,Pass
+Female,19,11.2,57.6,48.1,6.7,1,Bachelor,141935,Yes,Yes,46.3,Fail
+Female,22,15.6,70.3,66.3,7.6,3,High School,34029,No,Yes,49.0,Fail
+Male,20,11.4,94.1,88.4,6.6,3,Bachelor,83550,Yes,No,65.5,Pass
+Female,22,13.6,69.6,89.5,9.5,6,Bachelor,93507,No,Yes,67.9,Pass
+Female,16,26.6,64.7,70.9,8.4,6,Bachelor,106719,No,Yes,52.6,Pass
+Female,17,12.5,71.2,54.3,7.2,3,High School,106499,No,Yes,39.4,Fail
+Male,20,11.8,91.6,92.3,7.2,4,High School,119383,Yes,No,60.6,Pass
+Male,18,10.1,82.6,79.5,8.7,7,High School,33646,No,Yes,61.6,Pass
+Female,19,18.5,72.5,55.2,7.7,3,Associate,40713,No,Yes,44.8,Fail
+Female,16,12.9,79.3,72.8,8.9,6,Bachelor,50267,Yes,Yes,57.8,Pass
+Male,17,10.1,91.9,72.2,4.4,4,Bachelor,21864,Yes,Yes,53.7,Pass
+Female,20,21.9,69.2,59.1,7.6,5,Master,94197,No,Yes,57.1,Pass
+Female,20,22.5,68.9,72.9,6.4,2,High School,135201,Yes,Yes,48.6,Fail
+Female,16,10.4,85.4,83.5,9.1,6,High School,90246,Yes,Yes,52.4,Pass
+Female,21,2.8,74.9,63.9,8.9,6,Bachelor,50380,No,Yes,51.7,Pass
+Female,18,20.0,65.3,84.9,7.0,2,High School,59284,Yes,Yes,61.4,Pass
+Male,16,9.9,76.1,43.4,8.8,2,Associate,136178,Yes,Yes,42.7,Fail
+Female,20,18.7,62.3,99.1,9.1,2,Associate,141556,Yes,Yes,67.8,Pass
+Male,15,2.2,84.5,68.8,7.1,4,High School,73277,Yes,Yes,48.1,Fail
+Female,17,19.4,83.0,83.0,10.0,5,Bachelor,33316,Yes,Yes,70.0,Pass
+Male,16,,95.7,71.1,7.0,3,Associate,29325,No,Yes,43.4,Fail
+Male,21,18.4,88.7,56.5,6.7,1,Bachelor,92922,Yes,Yes,54.9,Pass
+Female,20,14.1,68.6,67.5,8.0,6,Master,131949,No,Yes,48.2,Fail
+Male,18,8.3,61.8,41.3,6.6,2,High School,148856,Yes,Yes,41.8,Fail
+Female,22,11.6,63.7,77.6,7.1,7,Master,122564,No,Yes,52.8,Pass
+Male,20,18.1,74.6,70.7,8.7,5,Associate,94803,Yes,No,61.9,Pass
+Female,18,14.6,89.5,65.3,7.0,3,Master,33419,No,Yes,62.9,Pass
+Female,16,17.5,97.0,78.5,5.0,3,High School,63854,Yes,Yes,60.8,Pass
+Female,18,,77.7,68.5,7.4,4,Bachelor,127796,No,Yes,60.8,Pass
+Other,19,4.6,63.8,76.5,6.2,4,Associate,117427,Yes,No,53.1,Pass
+Male,19,23.7,85.7,81.5,8.0,3,Bachelor,98535,Yes,No,74.3,Pass
+Male,19,14.6,89.9,60.3,7.8,5,Bachelor,106855,Yes,Yes,56.4,Pass
+Female,21,8.6,94.4,56.3,8.8,3,Associate,45633,No,Yes,45.3,Fail
+Male,21,6.0,75.7,43.9,8.1,6,Master,134958,No,Yes,31.3,Fail
+Female,15,12.9,43.5,69.7,8.3,5,Associate,42055,Yes,No,34.3,Fail
+Male,21,19.5,40.0,74.3,6.2,4,High School,25025,Yes,Yes,52.4,Pass
+Female,22,13.2,63.7,49.5,8.0,2,Bachelor,30549,No,Yes,48.6,Fail
+Female,16,23.1,78.1,87.9,9.4,5,Bachelor,32853,No,Yes,63.2,Pass
+Female,20,5.3,93.2,56.5,6.2,5,Associate,79156,No,Yes,51.9,Pass
+Female,20,13.9,72.8,38.6,9.2,6,Associate,45163,Yes,Yes,42.2,Fail
+Male,15,6.5,92.1,88.9,6.3,3,Doctorate,116136,No,Yes,61.8,Pass
+Female,21,16.2,86.6,40.4,6.0,8,Bachelor,141296,Yes,Yes,52.7,Pass
+Male,22,19.3,71.2,81.5,7.4,6,High School,32075,No,Yes,60.2,Pass
+Female,18,11.5,87.2,78.1,7.9,5,High School,112245,No,Yes,53.7,Pass
+Male,15,1.0,82.0,72.5,8.1,4,Doctorate,61315,No,Yes,56.6,Pass
+Female,22,15.2,91.3,60.7,5.8,4,Bachelor,121245,Yes,No,57.7,Pass
+Female,18,16.6,80.3,75.0,7.5,9,Master,34010,Yes,Yes,70.7,Pass
+Male,22,16.4,,82.7,6.2,5,Associate,124548,No,Yes,58.3,Pass
+Female,18,21.4,52.7,54.2,5.2,8,Bachelor,18605,Yes,Yes,41.1,Fail
+Female,17,7.6,91.2,81.7,5.9,3,Bachelor,55315,No,Yes,61.6,Pass
+Male,22,18.1,81.4,81.0,6.1,5,High School,26652,Yes,Yes,59.8,Pass
+Male,20,21.2,87.1,72.1,7.6,2,Bachelor,138179,Yes,No,63.9,Pass
+Female,19,3.3,66.2,60.5,8.4,5,Bachelor,111439,No,Yes,42.9,Fail
+Female,21,15.9,91.7,81.1,5.2,3,Associate,98266,Yes,Yes,55.6,Pass
+Male,18,11.0,58.3,75.1,7.4,5,Master,56541,Yes,Yes,56.6,Pass
+Female,17,13.5,74.7,53.8,5.6,4,Master,82658,No,Yes,47.7,Fail
+Female,22,16.1,92.5,62.9,7.8,4,Master,74327,Yes,Yes,60.4,Pass
+Female,20,11.1,90.5,79.5,6.3,6,Master,111434,No,Yes,57.3,Pass
+Male,19,9.9,64.1,69.6,5.7,2,Associate,61654,Yes,No,48.3,Fail
+Male,18,14.2,73.5,83.2,8.0,3,Associate,33930,No,Yes,59.3,Pass
+Female,22,7.5,84.4,63.2,6.3,5,Master,148682,Yes,Yes,54.0,Pass
+Female,22,7.5,95.7,54.0,6.6,7,Associate,24775,No,Yes,50.6,Pass
+Female,18,18.1,91.5,98.7,4.3,3,High School,23378,No,Yes,69.2,Pass
+Male,15,7.1,86.4,44.5,8.1,1,Associate,64402,No,Yes,44.5,Fail
+Female,15,18.0,81.0,61.0,8.0,3,High School,97712,No,Yes,46.7,Fail
+Female,20,16.8,56.5,71.9,7.0,5,Bachelor,43060,Yes,Yes,57.7,Pass
+Male,19,3.6,53.1,81.8,5.2,4,Associate,145067,No,Yes,43.6,Fail
+Female,18,9.9,71.3,77.1,8.5,5,High School,146334,Yes,Yes,51.8,Pass
+Male,20,21.2,72.6,100.0,6.2,2,Doctorate,136684,No,Yes,66.8,Pass
+Female,20,8.1,71.2,66.4,6.5,2,Bachelor,111104,Yes,Yes,55.4,Pass
+Female,16,11.2,62.2,55.8,9.8,5,Bachelor,40765,Yes,Yes,61.6,Pass
+Female,22,16.8,46.3,64.9,6.2,4,Bachelor,134677,Yes,Yes,48.0,Fail
+Male,21,18.7,63.3,63.5,7.9,3,Master,112385,Yes,Yes,61.5,Pass
+Male,22,12.5,99.2,67.0,7.7,10,Bachelor,120649,Yes,Yes,62.2,Pass
+Male,15,10.4,86.4,54.2,7.5,5,Bachelor,26174,Yes,No,46.0,Fail
+Female,19,22.5,52.8,79.0,7.3,4,Doctorate,63820,No,Yes,49.4,Fail
+Male,22,24.4,94.5,73.2,7.5,4,High School,144518,Yes,Yes,67.9,Pass
+Female,18,19.9,63.3,50.3,7.3,6,Master,90582,Yes,Yes,52.1,Pass
+Female,20,14.5,58.6,81.6,6.9,4,Associate,34722,No,No,51.6,Pass
+Male,18,9.2,40.0,56.6,8.8,1,Associate,126157,Yes,Yes,44.1,Fail
+Female,16,9.0,93.3,51.4,5.4,2,High School,89504,No,No,48.4,Fail
+Female,19,17.1,89.2,69.2,8.2,3,Associate,128760,Yes,Yes,60.6,Pass
+Female,20,16.5,81.5,43.4,8.0,7,Bachelor,58452,Yes,Yes,59.6,Pass
+Female,18,22.4,92.3,76.3,7.8,4,Doctorate,46270,Yes,No,72.6,Pass
+Female,15,17.9,69.0,35.0,8.3,3,Doctorate,59129,Yes,No,53.4,Pass
+Male,21,5.0,73.2,53.6,6.9,9,Doctorate,24387,Yes,Yes,46.2,Fail
+Female,16,20.3,84.1,90.1,4.8,5,Associate,42394,Yes,Yes,67.3,Pass
+Male,19,8.0,84.8,58.4,6.9,3,Doctorate,145113,Yes,No,45.2,Fail
+Male,16,11.7,72.6,60.8,5.8,3,Associate,94827,No,Yes,44.6,Fail
+Female,15,15.5,93.8,85.8,6.1,3,Master,129110,No,Yes,72.3,Pass
+Female,19,26.0,69.3,56.9,5.5,5,High School,53241,Yes,Yes,52.2,Pass
+Female,16,32.7,95.6,78.7,6.4,3,Associate,46337,No,Yes,64.8,Pass
+Male,17,17.6,90.5,84.4,6.3,5,Doctorate,118992,No,No,61.0,Pass
+Female,15,12.9,90.8,74.7,4.1,5,Master,22804,Yes,Yes,57.9,Pass
+Male,15,17.2,49.2,47.8,7.8,2,Bachelor,75450,Yes,Yes,47.6,Fail
+Female,15,19.3,65.8,59.5,9.7,2,Bachelor,77529,Yes,Yes,53.3,Pass
+Male,17,12.1,64.6,100.0,7.7,2,High School,140766,No,Yes,66.6,Pass
+Female,17,24.8,72.1,61.1,6.8,1,Bachelor,49334,No,Yes,59.8,Pass
+Female,18,15.4,82.4,100.0,6.9,4,Bachelor,81452,Yes,Yes,63.0,Pass
+Male,20,17.0,63.5,91.9,6.5,1,High School,125018,No,Yes,67.0,Pass
+Male,21,18.0,61.4,75.3,7.1,4,High School,57440,No,Yes,51.3,Pass
+Female,16,16.5,71.9,72.2,7.0,8,High School,81118,No,Yes,51.1,Pass
+Male,18,19.0,65.7,61.5,6.0,3,Bachelor,103263,No,Yes,53.9,Pass
+Female,16,10.3,81.2,66.8,9.0,3,High School,144775,No,Yes,52.3,Pass
+Male,21,10.7,40.0,58.4,5.2,3,Associate,67217,No,Yes,37.2,Fail
+Male,20,7.4,87.6,67.1,7.9,5,Associate,86517,No,Yes,51.6,Pass
+Female,17,16.6,84.2,48.9,6.9,3,Bachelor,72740,Yes,Yes,53.2,Pass
+Female,20,18.7,77.3,48.2,9.3,4,Bachelor,119119,No,Yes,52.6,Pass
+Female,17,16.7,84.6,86.2,7.4,8,Bachelor,31950,No,Yes,59.5,Pass
+Male,21,24.0,88.2,45.4,6.6,5,Associate,90209,Yes,Yes,52.5,Pass
+Male,20,14.0,85.6,80.4,6.7,5,Associate,85278,Yes,Yes,52.9,Pass
+Female,18,18.0,91.0,41.5,7.0,1,Associate,56488,No,Yes,50.2,Pass
+Female,19,7.4,76.9,76.8,5.6,5,Master,54277,Yes,Yes,58.0,Pass
+Male,18,11.7,76.6,65.1,6.1,7,Associate,21534,No,Yes,56.0,Pass
+Other,16,18.2,65.9,86.5,4.9,7,High School,98221,No,Yes,55.4,Pass
+Male,18,19.1,40.0,63.4,5.9,2,Bachelor,89121,Yes,Yes,47.8,Fail
+Female,21,12.2,92.5,39.9,7.1,3,Associate,92090,Yes,Yes,43.2,Fail
+Female,15,13.6,67.1,65.4,7.4,2,Master,127777,Yes,Yes,58.9,Pass
+Female,16,4.9,90.3,70.2,4.6,3,Associate,19634,Yes,Yes,49.4,Fail
+Male,20,11.9,73.3,66.2,6.8,7,Bachelor,34908,Yes,No,46.1,Fail
+Female,16,19.3,91.7,76.1,7.7,3,High School,98653,No,Yes,56.2,Pass
+Male,19,17.5,69.0,60.1,6.8,4,Associate,85258,No,Yes,47.7,Fail
+Female,17,17.0,86.9,50.3,6.2,4,Associate,87400,Yes,Yes,55.8,Pass
+Male,20,14.3,78.6,54.0,6.5,7,Master,134107,Yes,No,39.0,Fail
+Male,22,14.0,71.5,60.8,6.4,1,Doctorate,147468,No,Yes,62.9,Pass
+Male,16,10.0,70.9,60.7,6.2,4,Associate,130436,Yes,Yes,47.5,Fail
+Female,20,18.2,60.9,100.0,7.2,4,Master,49131,No,Yes,63.0,Pass
+Female,20,16.5,78.1,85.6,9.8,5,Bachelor,79760,Yes,Yes,69.8,Pass
+Female,20,17.0,85.7,77.6,6.1,1,Doctorate,85370,Yes,Yes,68.7,Pass
+Male,17,10.8,97.2,74.2,6.6,1,Master,147841,Yes,Yes,60.6,Pass
+Male,22,1.1,68.7,72.2,6.9,2,High School,72470,No,Yes,36.5,Fail
+Male,21,20.6,60.3,72.3,6.2,1,Bachelor,137688,No,Yes,61.1,Pass
+Male,18,11.1,51.7,70.3,8.3,4,Associate,71283,Yes,Yes,53.3,Pass
+Male,20,8.8,58.3,68.6,4.2,2,High School,148263,No,Yes,41.5,Fail
+Female,15,18.2,77.6,38.7,6.4,1,High School,31878,No,Yes,50.9,Pass
+Male,21,11.6,73.4,62.8,8.0,3,Master,135743,Yes,Yes,56.6,Pass
+Female,19,20.4,81.8,64.6,6.6,2,Master,94668,Yes,No,67.3,Pass
+Female,17,17.7,58.8,57.5,6.0,2,Bachelor,26203,No,Yes,44.8,Fail
+Male,16,18.1,82.8,60.2,7.5,4,Doctorate,28322,Yes,Yes,56.6,Pass
+Female,17,5.8,82.0,72.2,8.1,5,Master,94831,Yes,Yes,54.2,Pass
+Female,16,21.3,66.2,78.7,7.3,1,High School,53925,No,Yes,56.0,Pass
+Male,17,15.6,68.4,72.2,6.0,1,High School,40247,Yes,Yes,61.2,Pass
+Female,16,11.8,41.1,78.4,7.5,4,High School,125930,No,Yes,46.6,Fail
+Male,20,14.9,91.2,78.6,6.5,5,High School,137496,No,Yes,52.3,Pass
+Female,18,3.3,70.2,63.8,7.9,4,High School,95631,No,Yes,41.7,Fail
+Female,16,16.5,83.0,75.4,8.8,2,Associate,64335,No,Yes,57.6,Pass
+Female,22,7.8,74.2,43.6,4.0,3,Master,106961,Yes,Yes,41.7,Fail
+Female,16,5.9,81.7,62.6,7.1,7,Master,52723,No,Yes,47.9,Fail
+Male,15,4.9,88.9,61.0,4.9,2,Bachelor,22991,Yes,Yes,51.6,Pass
+Female,16,20.7,77.6,89.4,9.9,6,Master,31763,No,Yes,63.3,Pass
+Male,15,10.2,83.0,72.7,6.4,9,Associate,62863,No,Yes,44.6,Fail
+Female,19,23.2,90.6,49.3,7.9,4,Master,35408,Yes,Yes,64.9,Pass
+Male,20,10.8,80.0,76.3,7.0,4,Associate,132177,Yes,Yes,58.9,Pass
+Male,15,3.8,67.7,80.7,6.0,2,High School,107767,Yes,Yes,55.7,Pass
+Male,18,7.3,61.1,66.7,5.9,3,Master,19011,Yes,Yes,50.3,Pass
+Female,21,21.4,75.6,77.7,8.9,4,Associate,56392,No,Yes,54.7,Pass
+Female,20,13.1,60.9,35.0,8.1,3,Associate,76990,Yes,Yes,38.0,Fail
+Female,15,10.7,85.6,35.0,9.3,2,Associate,96780,No,No,45.3,Fail
+Male,20,15.0,40.0,51.5,7.1,1,Bachelor,41536,Yes,Yes,38.4,Fail
+Female,22,17.0,65.8,70.1,7.3,4,Doctorate,105746,Yes,Yes,68.4,Pass
+Male,20,20.7,82.6,89.5,6.7,3,High School,23585,No,Yes,57.5,Pass
+Male,20,22.7,79.9,52.2,6.7,4,Master,75210,No,Yes,59.6,Pass
+Female,19,11.8,83.1,56.0,5.7,4,High School,140365,Yes,Yes,43.1,Fail
+Male,18,6.0,51.1,69.2,7.1,4,Associate,27775,Yes,Yes,42.6,Fail
+Female,17,11.5,84.4,61.1,6.1,4,High School,32099,No,Yes,37.0,Fail
+Female,17,15.6,62.6,60.3,7.5,4,Bachelor,120341,Yes,Yes,61.6,Pass
+Male,15,8.2,84.3,62.1,7.2,5,High School,59842,Yes,Yes,51.4,Pass
+Male,20,8.3,71.1,86.4,7.3,1,Bachelor,75163,No,Yes,61.8,Pass
+Male,15,16.1,66.4,83.6,9.0,6,High School,140863,No,Yes,51.3,Pass
+Female,19,13.7,78.0,68.3,7.0,2,High School,113608,Yes,Yes,50.1,Pass
+Female,19,14.2,86.6,91.2,7.9,2,Bachelor,127478,No,Yes,70.1,Pass
+Male,16,9.4,72.1,75.1,9.5,5,High School,73700,No,Yes,43.3,Fail
+Male,22,12.6,55.2,84.2,8.6,4,High School,20539,Yes,Yes,53.3,Pass
+Male,19,8.5,78.8,56.0,8.4,6,High School,126609,Yes,Yes,39.0,Fail
+Female,16,19.3,75.0,58.8,6.6,7,Bachelor,96735,Yes,No,51.3,Pass
+Male,18,20.2,75.1,58.7,7.3,3,Bachelor,75824,No,Yes,45.1,Fail
+Female,15,2.9,99.0,66.8,5.4,0,High School,30281,Yes,Yes,46.1,Fail
+Female,21,8.4,82.8,68.8,7.6,5,High School,27946,Yes,Yes,46.6,Fail
+Male,18,5.0,84.6,72.5,7.3,10,Associate,142128,No,Yes,48.6,Fail
+Female,19,10.1,40.0,95.6,7.0,9,Associate,142016,Yes,No,45.1,Fail
+Male,18,13.5,91.4,78.1,8.2,5,Master,94427,Yes,Yes,70.0,Pass
+Female,18,5.3,68.1,60.8,5.6,5,Bachelor,44111,Yes,Yes,53.8,Pass
+Female,22,8.5,86.2,68.0,9.0,3,Bachelor,51290,Yes,Yes,56.1,Pass
+Male,22,8.0,69.5,89.1,8.1,2,Associate,22837,No,Yes,49.2,Fail
+Male,22,15.2,51.8,78.9,6.9,5,Bachelor,29801,Yes,No,57.1,Pass
+Male,18,14.4,73.0,88.9,6.8,4,Master,147342,Yes,Yes,57.9,Pass
+Male,19,9.7,66.3,61.2,7.6,4,Bachelor,115157,Yes,Yes,45.8,Fail
+Male,21,15.1,71.4,58.0,8.8,3,Bachelor,58916,Yes,Yes,46.1,Fail
+Male,20,10.7,80.5,58.2,7.1,2,Bachelor,80546,No,Yes,55.9,Pass
+Male,18,12.4,,62.4,7.2,3,Bachelor,63474,No,Yes,58.0,Pass
+Female,16,24.0,65.4,53.1,7.0,6,Associate,111766,No,Yes,56.3,Pass
+Female,19,22.0,90.3,72.1,9.1,8,Bachelor,54388,Yes,Yes,61.2,Pass
+Female,18,6.2,96.4,72.4,6.6,2,High School,94167,No,Yes,48.6,Fail
+Other,21,19.0,54.8,86.7,7.0,2,Bachelor,113364,Yes,Yes,60.6,Pass
+Male,20,18.9,64.1,43.4,8.8,2,Master,92667,No,Yes,43.2,Fail
+Female,22,7.1,84.7,54.8,7.2,4,Master,97843,Yes,Yes,59.4,Pass
+Male,19,18.9,79.9,79.3,8.4,3,Associate,21709,No,No,74.6,Pass
+Male,17,23.2,88.2,70.6,5.9,4,High School,66754,Yes,Yes,57.1,Pass
+Female,20,7.3,68.4,68.6,6.8,5,High School,104257,Yes,Yes,49.8,Fail
+Male,16,8.5,86.6,85.7,8.8,6,Bachelor,23094,Yes,No,57.7,Pass
+Male,18,20.1,88.0,53.9,6.2,5,Master,25472,Yes,Yes,60.7,Pass
+Female,21,15.6,68.7,57.8,6.8,5,Bachelor,54131,No,Yes,53.9,Pass
+Male,17,17.3,92.0,56.1,7.3,5,High School,102943,No,Yes,44.4,Fail
+Female,21,16.0,68.3,39.8,5.8,4,Master,101737,Yes,Yes,45.4,Fail
+Male,17,16.3,93.7,69.9,6.5,3,Doctorate,41115,Yes,Yes,73.0,Pass
+Male,19,6.0,86.3,60.7,7.1,4,Associate,45961,No,No,46.6,Fail
+Male,17,20.3,95.3,57.7,7.1,7,Bachelor,65083,Yes,Yes,60.0,Pass
+Female,16,21.0,87.2,55.2,8.5,3,Bachelor,65182,No,Yes,59.6,Pass
+Male,16,12.6,61.9,67.8,8.8,5,Bachelor,145987,No,Yes,53.1,Pass
+Male,15,13.7,98.0,56.8,6.0,4,Doctorate,20017,No,Yes,63.6,Pass
+Female,16,4.8,85.8,71.1,7.1,4,High School,79852,Yes,Yes,54.7,Pass
+Male,20,17.1,92.8,74.4,7.8,2,Bachelor,68509,No,Yes,63.0,Pass
+Female,17,17.4,55.0,63.9,8.8,4,Bachelor,24531,No,Yes,52.5,Pass
+Male,16,13.6,58.5,62.9,7.9,6,Master,62023,No,Yes,48.6,Fail
+Female,19,20.7,85.7,70.6,7.3,3,Master,58059,No,Yes,59.6,Pass
+Female,21,12.0,46.5,67.6,7.8,4,Doctorate,58023,Yes,Yes,53.5,Pass
+Female,22,17.4,85.7,86.6,7.8,7,Associate,22236,No,Yes,59.6,Pass
+Male,21,7.9,68.6,72.5,5.9,4,Master,123109,No,Yes,43.4,Fail
+Female,15,13.9,88.4,83.3,7.2,4,Associate,144682,Yes,No,63.6,Pass
+Male,21,13.0,81.1,76.5,8.8,4,Associate,42941,No,No,57.9,Pass
+Female,17,15.4,84.2,49.5,6.8,6,High School,111067,No,Yes,46.8,Fail
+Female,15,11.8,55.5,60.2,7.2,5,Master,119349,Yes,Yes,54.2,Pass
+Male,17,13.2,96.3,67.3,6.7,2,Doctorate,94629,Yes,Yes,64.9,Pass
+Male,19,19.0,96.9,80.2,4.2,1,High School,29651,Yes,Yes,62.6,Pass
+Female,15,11.4,76.3,95.0,7.0,5,High School,108380,No,Yes,61.8,Pass
+Male,18,4.4,86.3,61.2,7.4,3,Master,67823,Yes,Yes,49.0,Fail
+Male,20,24.5,63.1,68.8,6.4,3,Bachelor,57768,Yes,No,52.1,Pass
+Male,20,22.3,81.0,79.2,5.6,6,Doctorate,103558,Yes,Yes,70.2,Pass
+Female,17,6.2,76.0,67.2,5.9,3,High School,130784,No,Yes,47.5,Fail
+Female,21,18.1,53.4,91.0,7.9,2,High School,122389,No,Yes,62.0,Pass
+Male,22,11.0,76.8,49.1,9.4,3,Associate,149306,Yes,No,37.1,Fail
+Female,22,15.6,79.5,77.5,8.7,2,High School,90370,Yes,Yes,59.7,Pass
+Male,18,15.8,68.6,77.4,5.4,7,High School,86743,Yes,Yes,46.6,Fail
+Male,15,12.6,77.9,84.1,8.0,3,High School,105009,No,Yes,60.6,Pass
+Male,18,9.3,93.3,68.9,6.2,5,High School,128866,No,Yes,56.6,Pass
+Male,18,9.9,90.2,80.5,6.3,5,High School,107471,Yes,Yes,59.2,Pass
+Other,21,8.5,70.6,64.5,6.4,4,Doctorate,78598,Yes,Yes,52.3,Pass
+Female,22,9.0,75.5,56.8,7.8,3,High School,43015,No,No,37.4,Fail
+Male,15,13.6,83.6,54.7,8.2,2,Associate,82430,No,Yes,48.6,Fail
+Female,19,9.7,89.1,47.8,6.9,3,Master,67185,No,Yes,45.6,Fail
+Female,21,18.1,85.2,61.8,6.9,3,Bachelor,80306,Yes,No,55.7,Pass
+Male,18,22.9,85.2,72.4,7.6,5,Bachelor,37416,Yes,Yes,60.9,Pass
+Male,18,10.5,68.9,65.1,7.7,7,Bachelor,96655,Yes,Yes,43.4,Fail
+Other,19,15.4,90.5,70.8,8.4,7,Master,91180,Yes,Yes,63.8,Pass
+Male,18,17.0,98.9,85.3,5.5,7,Master,68262,No,Yes,67.4,Pass
+Female,18,16.8,84.6,60.8,7.0,5,Bachelor,92189,Yes,Yes,65.3,Pass
+Female,18,14.5,76.7,100.0,5.7,4,Master,97952,Yes,Yes,67.6,Pass
+Male,20,18.5,54.2,78.6,6.9,6,Associate,71662,Yes,Yes,45.3,Fail
+Female,21,16.9,81.1,65.2,6.7,2,High School,70191,Yes,Yes,60.0,Pass
+Female,16,6.6,52.6,64.9,6.9,4,Master,101176,No,No,47.3,Fail
+Female,21,,81.0,53.9,6.0,4,Associate,79353,Yes,Yes,58.9,Pass
+Female,19,19.3,55.1,67.6,5.2,3,Master,119544,Yes,Yes,64.4,Pass
+Female,18,9.4,91.9,37.7,4.5,2,High School,61671,Yes,No,47.7,Fail
+Female,21,14.2,57.7,85.6,6.8,3,Associate,61388,No,No,47.0,Fail
+Female,20,18.1,80.8,35.0,6.5,7,Master,101944,Yes,No,52.6,Pass
+Female,22,12.7,84.0,68.6,6.2,1,High School,78690,Yes,Yes,54.3,Pass
+Other,19,20.4,53.4,52.0,8.6,0,Master,65165,No,Yes,56.9,Pass
+Female,17,,74.5,58.2,6.0,5,Doctorate,49247,No,Yes,61.8,Pass
+Female,21,9.3,98.0,60.0,8.7,4,Master,137645,Yes,Yes,54.0,Pass
+Male,17,5.7,53.8,95.0,8.9,6,Bachelor,46821,No,Yes,59.1,Pass
+Female,18,15.8,65.9,52.6,4.7,2,Bachelor,126659,No,Yes,45.4,Fail
+Male,20,18.3,77.9,80.8,7.1,3,Master,89744,Yes,No,73.1,Pass
+Male,20,12.6,72.1,84.2,6.5,4,Bachelor,135441,Yes,Yes,56.8,Pass
+Female,21,22.7,95.0,35.3,4.0,1,Bachelor,130045,Yes,No,47.0,Fail
+Female,19,6.0,87.9,59.4,5.3,1,Doctorate,29263,No,Yes,51.1,Pass
+Male,19,18.2,81.5,88.8,7.9,4,Bachelor,74480,Yes,Yes,75.4,Pass
+Male,20,10.4,48.3,49.6,9.4,3,Doctorate,144926,No,Yes,37.7,Fail
+Female,19,24.3,79.0,84.8,8.1,5,High School,136055,No,Yes,66.3,Pass
+Male,20,26.0,86.6,67.7,7.4,4,High School,59128,No,Yes,67.8,Pass
+Female,21,9.4,78.7,67.1,7.0,7,Associate,105498,Yes,Yes,49.2,Fail
+Other,16,10.7,66.2,69.0,9.0,3,Associate,60563,No,Yes,48.1,Fail
+Female,20,19.2,78.3,72.8,9.6,1,Bachelor,35414,No,Yes,62.9,Pass
+Male,17,11.7,78.0,54.6,6.3,6,High School,140452,No,Yes,36.7,Fail
+Male,19,13.7,63.0,64.4,4.6,1,Doctorate,93462,Yes,Yes,71.0,Pass
+Male,20,14.2,89.1,73.2,4.5,2,Associate,123209,Yes,Yes,63.1,Pass
+Male,20,2.5,68.1,70.5,8.6,1,Associate,55210,Yes,Yes,44.7,Fail
+Female,21,13.9,80.4,72.9,6.9,4,High School,148768,No,Yes,48.3,Fail
+Female,19,9.9,64.5,57.9,7.2,2,Bachelor,21667,No,Yes,48.2,Fail
+Female,16,11.0,93.2,76.9,4.9,5,High School,145710,No,Yes,46.5,Fail
+Female,21,22.7,64.3,69.8,6.1,3,High School,35660,Yes,Yes,48.5,Fail
+Male,16,6.5,59.2,45.9,6.6,4,Bachelor,90089,No,Yes,39.6,Fail
+Female,22,18.9,70.6,60.6,7.2,6,High School,100462,No,Yes,52.3,Pass
+Female,21,12.3,64.7,55.5,6.5,3,High School,112148,Yes,Yes,50.2,Pass
+Male,19,12.3,92.5,55.3,5.8,2,Bachelor,51351,No,Yes,52.5,Pass
+Male,15,18.7,66.0,61.3,6.1,3,High School,139359,No,Yes,46.9,Fail
+Male,19,,96.6,76.6,8.4,4,Associate,92674,No,Yes,61.2,Pass
+Other,19,17.4,74.8,59.2,7.3,3,High School,54241,No,Yes,54.2,Pass
+Female,16,19.8,86.6,71.2,7.7,4,Associate,110983,Yes,Yes,55.4,Pass
+Female,16,12.0,69.5,68.9,5.9,4,Bachelor,120299,Yes,Yes,50.2,Pass
+Male,19,10.3,91.9,57.1,4.0,3,High School,120839,No,Yes,44.7,Fail
+Male,19,7.5,84.5,63.2,6.4,2,Master,56639,No,Yes,52.4,Pass
+Female,19,9.0,68.9,80.1,6.0,5,Master,82036,Yes,Yes,57.2,Pass
+Male,16,31.7,95.7,70.1,7.4,6,High School,103223,Yes,Yes,65.8,Pass
+Female,19,21.5,71.4,75.7,10.0,5,Doctorate,85983,No,Yes,67.7,Pass
+Female,19,5.9,72.6,85.8,7.8,4,High School,144164,Yes,No,42.4,Fail
+Male,22,6.1,84.2,74.1,10.0,2,High School,92944,No,Yes,44.4,Fail
+Male,18,16.9,72.1,41.1,7.7,4,High School,140427,Yes,Yes,41.1,Fail
+Male,15,17.3,53.5,71.8,6.2,5,Associate,35674,Yes,Yes,56.3,Pass
+Female,17,17.3,96.7,59.3,7.4,1,Bachelor,30413,Yes,Yes,59.2,Pass
+Male,15,12.5,63.9,93.3,9.1,5,Associate,72986,Yes,Yes,60.3,Pass
+Female,18,13.2,59.2,73.6,9.2,1,Master,41071,No,Yes,57.9,Pass
+Female,17,16.0,86.8,59.6,6.3,1,Bachelor,92229,Yes,Yes,60.8,Pass
+Male,21,14.5,80.2,75.9,7.3,3,Associate,140116,Yes,Yes,67.5,Pass
+Male,19,1.0,77.9,69.3,5.3,4,Bachelor,100306,Yes,Yes,53.1,Pass
+Male,18,12.6,83.3,43.9,8.0,6,Master,146345,No,Yes,52.0,Pass
+Male,22,8.9,91.9,80.1,8.9,1,High School,85542,Yes,Yes,60.2,Pass
+Male,21,15.1,85.4,62.3,7.0,3,Associate,23213,Yes,Yes,63.5,Pass
+Male,19,31.9,50.3,87.9,6.2,3,Associate,81815,No,Yes,63.9,Pass
+Female,16,16.2,46.2,66.3,7.4,5,Associate,81948,No,Yes,35.7,Fail
+Female,20,12.1,90.3,88.2,7.5,8,Associate,93066,No,Yes,70.1,Pass
+Female,18,19.5,99.5,73.9,7.1,1,Associate,65128,Yes,Yes,67.5,Pass
+Female,16,16.9,87.1,81.6,7.2,4,Bachelor,67504,Yes,Yes,68.2,Pass
+Male,18,16.5,73.7,61.1,6.8,1,Bachelor,88500,Yes,No,49.2,Fail
+Male,22,17.6,80.7,72.9,8.2,2,Bachelor,70340,No,Yes,71.6,Pass
+Female,18,26.3,76.5,43.8,7.9,1,High School,147222,Yes,Yes,50.0,Pass
+Female,16,7.2,82.9,66.2,5.8,3,Associate,52070,Yes,Yes,50.1,Pass
+Male,22,16.8,84.4,47.2,5.8,3,Associate,91285,No,Yes,40.3,Fail
+Female,17,8.4,78.3,52.0,6.7,6,Associate,141405,No,Yes,43.6,Fail
+Male,15,17.3,77.0,55.5,7.9,2,Master,36262,No,Yes,54.1,Pass
+Male,19,8.5,89.7,77.2,7.2,4,Associate,120409,Yes,Yes,50.2,Pass
+Female,18,11.5,72.1,65.9,6.2,5,High School,53587,No,Yes,45.3,Fail
+Male,19,12.2,72.8,68.4,7.3,5,Associate,146595,No,Yes,50.1,Pass
+Male,20,19.9,87.3,65.6,6.6,7,Master,73131,No,Yes,56.7,Pass
+Female,16,19.5,91.4,83.1,8.1,7,Bachelor,111019,Yes,Yes,57.3,Pass
+Male,19,6.5,89.5,68.1,7.4,7,Associate,60018,No,Yes,49.8,Fail
+Male,16,14.3,84.3,71.5,6.6,4,High School,135177,No,Yes,46.4,Fail
+Female,19,9.7,86.2,60.0,7.3,0,Associate,103184,No,Yes,56.5,Pass
+Male,15,6.4,70.2,84.1,8.6,1,Bachelor,115292,No,Yes,54.4,Pass
+Male,15,12.7,59.3,85.1,6.3,3,Doctorate,62561,No,Yes,64.6,Pass
+Male,22,12.1,45.4,67.5,7.5,2,Bachelor,134981,Yes,Yes,51.0,Pass
+Male,15,28.6,88.3,59.8,6.9,4,Bachelor,51779,Yes,No,61.8,Pass
+Male,22,16.6,80.8,45.4,7.5,7,Associate,113909,Yes,Yes,53.5,Pass
+Male,15,5.7,72.3,55.8,6.2,7,Associate,135715,Yes,Yes,38.3,Fail
+Male,15,10.6,85.7,37.7,7.1,7,Master,118477,No,Yes,37.5,Fail
+Male,15,20.1,64.9,55.3,8.3,2,Associate,119688,Yes,Yes,56.4,Pass
+Male,16,26.5,91.5,73.0,5.9,5,Doctorate,135016,No,Yes,61.7,Pass
+Male,18,4.5,40.0,67.3,5.4,9,Associate,149869,No,Yes,29.9,Fail
+Male,22,2.7,70.5,100.0,5.5,1,High School,65754,Yes,Yes,50.3,Pass
+Female,19,25.2,97.6,62.8,5.6,1,Bachelor,71639,Yes,Yes,73.1,Pass
+Male,15,16.3,61.7,61.7,7.7,1,High School,30669,Yes,Yes,46.6,Fail
+Male,16,8.8,97.5,82.9,5.3,2,High School,147239,Yes,Yes,57.1,Pass
+Female,16,17.2,57.1,41.0,6.6,1,Associate,102509,Yes,Yes,38.9,Fail
+Male,16,1.0,66.8,47.3,7.7,6,Bachelor,46787,Yes,Yes,37.3,Fail
+Female,22,14.0,71.1,77.3,7.5,2,Associate,42051,Yes,Yes,58.1,Pass
+Female,18,16.0,90.2,65.3,6.5,6,High School,68615,Yes,Yes,58.2,Pass
+Male,22,19.5,73.5,65.6,7.2,9,Bachelor,137123,No,Yes,44.9,Fail
+Female,19,,53.4,54.9,7.1,4,Associate,146814,No,Yes,36.1,Fail
+Male,18,14.5,94.2,71.4,6.7,1,Master,35945,Yes,Yes,73.4,Pass
+Male,17,8.4,85.4,56.7,6.7,4,Associate,132135,No,Yes,51.8,Pass
+Male,21,15.5,83.8,69.0,9.7,2,Bachelor,100494,No,Yes,56.1,Pass
+Female,16,8.6,82.7,51.8,8.0,7,High School,71168,No,No,37.4,Fail
+Female,22,11.6,92.8,65.4,10.0,5,Bachelor,94086,No,Yes,65.6,Pass
+Male,17,,40.0,96.3,6.4,7,Bachelor,139915,Yes,Yes,47.1,Fail
+Other,20,17.9,81.7,62.1,6.9,5,Master,87560,Yes,Yes,49.6,Fail
+Male,22,19.2,93.1,66.2,5.4,5,High School,49772,Yes,No,51.3,Pass
+Female,15,12.6,74.2,65.2,6.0,7,Associate,85656,Yes,Yes,49.3,Fail
+Male,21,14.2,68.9,70.4,9.3,3,Bachelor,113625,Yes,Yes,54.2,Pass
+Male,15,5.3,79.9,74.6,6.4,3,High School,104884,Yes,Yes,56.5,Pass
+Male,18,12.2,52.6,71.6,9.3,6,Associate,135129,Yes,Yes,50.7,Pass
+Female,21,13.7,67.2,71.9,5.5,3,Master,36904,No,Yes,52.1,Pass
+Male,22,29.7,95.8,65.5,5.7,6,Associate,104328,No,Yes,58.7,Pass
+Male,19,7.3,82.7,69.4,6.6,4,Doctorate,98195,No,Yes,52.0,Pass
+Male,17,22.8,57.6,65.0,6.9,6,High School,84500,Yes,Yes,55.2,Pass
+Female,19,20.0,62.5,42.6,8.1,5,Bachelor,52902,Yes,Yes,45.7,Fail
+Male,22,15.7,86.6,100.0,7.5,7,Bachelor,71606,Yes,Yes,63.0,Pass
+Male,18,24.6,92.3,78.2,6.5,5,Associate,141574,Yes,Yes,71.3,Pass
+Female,15,16.2,74.3,54.3,6.8,4,Doctorate,53571,No,Yes,52.3,Pass
+Male,21,16.3,83.3,71.2,6.6,7,High School,87447,No,Yes,44.3,Fail
+Male,19,13.7,86.9,49.2,5.9,3,Master,94752,Yes,No,60.1,Pass
+Female,22,21.3,94.0,61.1,5.9,2,Bachelor,105157,No,Yes,63.2,Pass
+Female,19,20.6,78.9,47.3,8.2,4,High School,75203,Yes,Yes,50.6,Pass
+Male,22,10.2,97.5,67.3,4.8,6,Master,75805,Yes,Yes,57.2,Pass
+Female,15,6.1,89.8,45.9,8.9,5,Associate,90649,Yes,Yes,44.3,Fail
+Male,21,12.8,56.4,73.4,6.6,2,Master,148294,No,Yes,52.8,Pass
+Female,17,9.2,84.6,77.6,6.1,1,Associate,58910,Yes,Yes,57.9,Pass
+Male,15,13.6,90.5,56.4,7.9,3,Master,42992,Yes,Yes,55.8,Pass
+Female,19,21.4,83.3,70.3,8.8,8,Bachelor,105521,Yes,Yes,60.4,Pass
+Male,17,11.3,74.6,55.7,8.3,7,High School,73448,Yes,Yes,41.9,Fail
+Male,22,13.7,43.1,75.2,7.6,3,Bachelor,87903,Yes,Yes,54.4,Pass
+Male,17,14.3,74.2,58.4,8.3,4,High School,28786,No,Yes,46.7,Fail
+Male,22,19.1,74.6,79.0,4.9,3,Associate,129316,Yes,Yes,57.4,Pass
+Female,15,1.0,83.1,42.6,6.4,0,High School,60706,Yes,Yes,40.7,Fail
