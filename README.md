@@ -1,181 +1,301 @@
-# AI-Driven Student Performance Prediction System
+# Student Performance Prediction using Machine Learning
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3+-F7931E.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+## Project Overview
 
-An end-to-end, production-grade Machine Learning system and interactive Web Dashboard designed for predicting student academic performance, categorizing risk levels (*Low*, *Medium*, *High*, *Critical Risk*), and providing Explainable AI (SHAP) insights alongside tailored academic intervention plans.
+During my AI & Machine Learning internship, I wanted to build a project that followed the complete machine learning workflow instead of only training a model in a Jupyter Notebook.
 
----
+The goal of this project is to predict a student's academic performance using historical academic and behavioural data. Besides predicting performance, I also wanted to understand **why** a prediction was made, so I incorporated explainability using SHAP and built an interactive dashboard using Streamlit.
 
-## Key Features
-
-* **Complete ML Pipeline**: Automated data loading, cleaning, missing value imputation, outlier clipping, one-hot encoding, feature scaling, and 5-fold cross-validation.
-* **Domain Feature Engineering**: Automatically computes composite metrics including *Attendance Ratio*, *Study Efficiency*, *Academic Risk Score*, *Homework Consistency*, and *Lifestyle Score*.
-* **Multi-Model Benchmarking**: Trains and evaluates 7 machine learning models (*Random Forest*, *Gradient Boosting*, *XGBoost*, *Decision Tree*, *Logistic Regression*, *SVM*, *KNN*) and selects the champion model based on F1 Score and ROC-AUC.
-* **Explainable AI (SHAP)**: Global feature importance rankings and local force/waterfall attributions.
-* **Risk Categorization & Advice**: Classifies student academic risk and generates dynamic, prioritized action steps (e.g. attendance targets, study hour adjustments, peer mentoring).
-* **Dual User Interface**:
-  * **Streamlit Interactive UI (`app.py`)**: Glassmorphism dark mode dashboard, live EDA, single/batch prediction, retrain triggers, and PDF report downloads.
-  * **FastAPI REST API (`api/main.py`)**: High-performance REST API endpoints with Pydantic validation and auto-generated Swagger UI (`/docs`).
-* **Automated PDF Diagnostics**: Generates downloadable diagnostic PDF reports summarizing student metrics, predicted score, risk status, and intervention plan.
-* **Hugging Face Spaces Ready**: Native single-file entry points and configuration for zero-setup deployment.
+Rather than focusing only on model accuracy, this project explores the complete lifecycle of an ML application—from preprocessing and feature engineering to deployment.
 
 ---
 
-## System Architecture
+## Application Preview
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Prediction Page
+
+![Prediction](screenshots/prediction.png)
+
+### SHAP Explainability
+
+![SHAP](screenshots/shap.png)
+
+
+---
+
+# Problem Statement
+
+Educational institutions often identify academically at-risk students only after examination results are published.
+
+If students who are likely to struggle can be identified earlier, teachers and mentors can intervene with additional support, helping improve overall academic performance.
+
+This project investigates whether machine learning models can learn patterns from student data and estimate academic performance before the final outcome.
+
+---
+
+# Dataset
+
+The project uses a Student Performance dataset obtained from Kaggle.
+
+The dataset contains information such as:
+
+- Gender
+- Age
+- Attendance Percentage
+- Previous Grades
+- Study Hours
+- Sleep Hours
+- Internet Access
+- Parent Education
+- Family Income
+- Extracurricular Activities
+- Absences
+
+These features were used to train supervised machine learning models.
+
+---
+
+# Project Workflow
+
+This project follows a standard Machine Learning pipeline.
+
+### 1. Data Preprocessing
+
+Before training, the dataset was cleaned by
+
+- Handling missing values
+- Removing duplicate records
+- Encoding categorical variables
+- Scaling numerical features
+- Preparing training and testing datasets
+
+---
+
+### 2. Feature Engineering
+
+To improve prediction quality, additional features were created from the original dataset, including
+
+- Attendance Ratio
+- Study Efficiency
+- Academic Risk Score
+- Lifestyle Score
+
+These engineered features helped the models capture more meaningful relationships within the data.
+
+---
+
+### 3. Model Training
+
+Instead of relying on a single algorithm, I compared multiple supervised learning models including
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+- Support Vector Machine
+- K-Nearest Neighbors
+- XGBoost
+
+Each model was evaluated using the same preprocessing pipeline.
+
+The best-performing model was selected based on evaluation metrics rather than personal preference.
+
+---
+
+### 4. Model Evaluation
+
+Models were compared using
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC Score
+- Cross Validation
+
+This helped identify the model that generalized best on unseen data.
+
+---
+
+### 5. Explainable AI
+
+One objective of this project was not only to generate predictions but also to understand them.
+
+SHAP was used to visualize
+
+- Feature importance
+- Local explanations
+- Global explanations
+
+This makes the prediction process easier to interpret instead of treating the model as a black box.
+
+---
+
+### 6. Deployment
+
+The trained model was integrated into a Streamlit application where users can
+
+- Enter student information
+- Predict performance
+- View risk category
+- Understand prediction explanations
+- Generate reports
+
+The project also includes FastAPI endpoints for serving predictions through REST APIs.
+
+---
+
+# Technologies Used
+
+### Programming
+
+- Python
+
+### Machine Learning
+
+- Scikit-learn
+- XGBoost
+- SHAP
+
+### Data Processing
+
+- Pandas
+- NumPy
+
+### Visualization
+
+- Plotly
+- Matplotlib
+
+### Deployment
+
+- Streamlit
+- FastAPI
+
+---
+
+# Repository Structure
 
 ```
-Ai_driven_stu_performance_prediction/
-├── config/
-│   └── settings.py              # Centralized configuration & hyperparams
-├── dataset/
-│   ├── student_performance.csv  # Kaggle-style realistic dataset
-│   └── generate_data.py         # Synthetic dataset generator
-├── models/                      # Saved joblib artifacts & metrics json
-│   ├── best_model.joblib
-│   ├── preprocessor.joblib
-│   ├── feature_names.joblib
-│   └── metrics.json
-├── preprocessing/
-│   ├── cleaner.py               # Imputation, outlier capping, scaling
-│   └── feature_engineering.py   # Domain engineered features
-├── training/
-│   ├── train_pipeline.py        # Model benchmarking & selection
-│   └── evaluate.py              # Metrics evaluation & cross-validation
+project/
+│
 ├── api/
-│   ├── main.py                  # FastAPI application entry point
-│   ├── schemas.py               # Pydantic input/output models
-│   └── routes.py                # REST endpoints (/predict, /train, /health)
+├── config/
+├── dataset/
 ├── frontend/
-│   ├── styles.py                # Modern glassmorphic dark CSS
-│   ├── dashboard_tab.py         # EDA visual tab
-│   ├── predict_tab.py           # Single student predictor UI
-│   ├── batch_tab.py             # CSV batch upload UI
-│   ├── model_tab.py             # Model performance benchmarking UI
-│   ├── xai_tab.py               # SHAP feature importance tab
-│   └── report_generator.py      # Automated PDF report generation
+├── models/
+├── preprocessing/
+├── training/
 ├── utils/
-│   ├── logger.py                # Logging utility
-│   ├── xai.py                   # SHAP explainer utilities
-│   └── risk_analyzer.py         # Risk classification engine
 ├── tests/
-│   ├── test_preprocessing.py    # Preprocessing unit tests
-│   ├── test_model.py            # Model training & inference tests
-│   └── test_api.py              # FastAPI endpoint tests
-├── assets/
-│   └── banner.png               # High-res UI banner asset
-├── app.py                       # Main Streamlit web application
-├── train.py                     # CLI script to execute ML training pipeline
-├── predict.py                   # CLI inference tool
-├── requirements.txt             # Dependency specification
-├── README.md                    # System documentation
-└── LICENSE                      # MIT License
+├── app.py
+├── train.py
+├── predict.py
+└── requirements.txt
 ```
 
 ---
 
-## Quick Start Guide
+# Running the Project
 
-### 1. Prerequisites & Installation
-
-Clone the repository and install required packages:
+Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Student-Performance.git
-cd AI-Student-Performance
+git clone https://github.com/aishanyatripathi/Ai_driven_stu_performance_prediction.git
+```
 
+Install dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-### 2. Train Machine Learning Pipeline
-
-Generate dataset and train all 7 machine learning algorithms:
+Train the models
 
 ```bash
 python train.py
 ```
 
-### 3. Launch Streamlit Web Dashboard
-
-Start the interactive Web Application:
+Run the Streamlit application
 
 ```bash
-python -m streamlit run app.py
-```
-
-Open your browser at `http://localhost:8501`.
-
-### 4. Run FastAPI Backend
-
-Launch the production REST API server:
-
-```bash
-uvicorn api.main:app --reload --port 8000
-```
-
-Access interactive API Documentation (Swagger) at `http://localhost:8000/docs`.
-
----
-
-## 📡 REST API Documentation
-
-| Method | Endpoint | Description |
-| :--- | :--- | :--- |
-| `GET` | `/health` | System health check and model status |
-| `POST` | `/predict` | Single student inference & risk analysis |
-| `GET` | `/model-info` | Metadata and metrics of active champion model |
-| `GET` | `/feature-importance` | SHAP feature importance breakdown |
-| `POST` | `/train` | Trigger model retraining pipeline |
-
-### Example Input Payload (`POST /predict`):
-
-```json
-{
-  "Gender": "Female",
-  "Age": 18,
-  "StudyHoursPerWeek": 16.5,
-  "AttendancePercentage": 85.0,
-  "PreviousGrade": 72.0,
-  "SleepHours": 7.5,
-  "Absences": 3,
-  "ParentEducation": "Bachelor",
-  "FamilyIncome": 60000.0,
-  "ExtracurricularActivities": "Yes",
-  "InternetAccess": "Yes"
-}
+streamlit run app.py
 ```
 
 ---
 
-## Running Automated Unit Tests
+# Challenges Faced
 
-Run the complete `pytest` test suite:
+This project involved several practical challenges during development.
 
-```bash
-pytest tests/ -v
-```
+Some of the issues I encountered included
 
----
+- Designing a preprocessing pipeline that worked consistently for both training and inference.
+- Comparing multiple models while keeping preprocessing identical.
+- Understanding SHAP explanations and integrating them into the application.
+- Resolving dependency conflicts during deployment on Streamlit Community Cloud.
+- Fixing version compatibility issues between locally trained models and deployed environments.
+- Improving the dashboard layout to make it easier to use.
 
-## Deploying to Hugging Face Spaces
-
-1. Create a new Space on [Hugging Face Spaces](https://huggingface.co/spaces).
-2. Choose **Streamlit** as the Space SDK.
-3. Commit and push all project files (`app.py`, `requirements.txt`, `config/`, `frontend/`, `models/`, `dataset/`, etc.) to the Space repository.
-4. Hugging Face Spaces will automatically install dependencies and launch `app.py`.
+Working through these problems helped me better understand how machine learning projects behave outside of notebooks.
 
 ---
 
-## License
+# What I Learned
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project helped me gain practical experience with
+
+- Building complete machine learning pipelines
+- Feature engineering
+- Model comparison
+- Hyperparameter tuning
+- Explainable AI
+- Model serialization using Joblib
+- API development using FastAPI
+- Building interactive dashboards with Streamlit
+- Deploying ML applications
+
+More importantly, I learned that building a working machine learning application involves much more than training a model.
 
 ---
 
-## Author & Acknowledgments
+# Future Improvements
 
-* **Developer**: **Aishanya Tripathi**
-* **Suitability**: This project was developed as part of an AI & Machine Learning Internship program. The project uses an open-source student performance dataset from Kaggle and was built using Python, Scikit-learn, FastAPI, and Streamlit.
+Some improvements I would like to explore include
+
+- Collecting larger real-world datasets
+- Experimenting with deep learning models
+- Continuous model retraining
+- User authentication
+- Database integration
+- Docker deployment
+- CI/CD pipeline
+- Cloud deployment using AWS or Azure
+
+---
+
+# Author
+
+**Aishanya Tripathi**
+
+AI & Machine Learning Enthusiast
+
+GitHub:
+https://github.com/aishanyatripathi
+
+LinkedIn:
+(Add your LinkedIn profile here)
+
+---
+
+# Acknowledgements
+
+This project was developed as part of my AI & Machine Learning Internship.
+
+The dataset used in this project is publicly available on Kaggle.
+
+I also referred to the official documentation of Scikit-learn, Streamlit, FastAPI, and SHAP while implementing different parts of the project.
