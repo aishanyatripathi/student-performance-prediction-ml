@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-During my AI & Machine Learning internship, I wanted to build a project that followed the complete machine learning workflow instead of only training a model in a Jupyter Notebook.
+During my Learning process, I wanted to build a project that followed the complete machine learning workflow instead of only training a model in a Jupyter Notebook.
 
 The goal of this project is to predict a student's academic performance using historical academic and behavioural data. Besides predicting performance, I also wanted to understand **why** a prediction was made, so I incorporated explainability using SHAP and built an interactive dashboard using Streamlit.
 
