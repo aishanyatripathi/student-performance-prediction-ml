@@ -287,9 +287,6 @@ AI & Machine Learning Enthusiast
 GitHub:
 https://github.com/aishanyatripathi
 
-LinkedIn:
-(Add your LinkedIn profile here)
-
 ---
 
 # Acknowledgements
