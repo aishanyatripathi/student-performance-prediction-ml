@@ -77,7 +77,7 @@ Ai_driven_stu_performance_prediction/
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Prerequisites & Installation
 
@@ -150,7 +150,7 @@ Access interactive API Documentation (Swagger) at `http://localhost:8000/docs`.
 
 ---
 
-## 🧪 Running Automated Unit Tests
+## Running Automated Unit Tests
 
 Run the complete `pytest` test suite:
 
@@ -160,7 +160,7 @@ pytest tests/ -v
 
 ---
 
-## 🤗 Deploying to Hugging Face Spaces
+## Deploying to Hugging Face Spaces
 
 1. Create a new Space on [Hugging Face Spaces](https://huggingface.co/spaces).
 2. Choose **Streamlit** as the Space SDK.
@@ -169,13 +169,13 @@ pytest tests/ -v
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author & Acknowledgments
+## Author & Acknowledgments
 
-* **Developer**: ML & Full Stack Engineering Team
-* **Suitability**: Final Year Major Project, College Submissions, GitHub Portfolio, Hugging Face Spaces, Internship Resumes.
+* **Developer**: **Aishanya Tripathi**
+* **Suitability**: This project was developed as part of an AI & Machine Learning Internship program. The project uses an open-source student performance dataset from Kaggle and was built using Python, Scikit-learn, FastAPI, and Streamlit.
