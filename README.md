@@ -1,4 +1,4 @@
-# 🎓 AI-Driven Student Performance Prediction System
+# AI-Driven Student Performance Prediction System
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
@@ -10,7 +10,7 @@ An end-to-end, production-grade Machine Learning system and interactive Web Dash
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Complete ML Pipeline**: Automated data loading, cleaning, missing value imputation, outlier clipping, one-hot encoding, feature scaling, and 5-fold cross-validation.
 * **Domain Feature Engineering**: Automatically computes composite metrics including *Attendance Ratio*, *Study Efficiency*, *Academic Risk Score*, *Homework Consistency*, and *Lifestyle Score*.
@@ -25,7 +25,7 @@ An end-to-end, production-grade Machine Learning system and interactive Web Dash
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Ai_driven_stu_performance_prediction/
